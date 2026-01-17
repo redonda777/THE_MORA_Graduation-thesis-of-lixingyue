@@ -1,0 +1,640 @@
+{
+    "nodes": [
+    {
+      "name": "root",
+      "type": "root",
+      "description": "树状图根节点",
+      "node_id": "root",
+      "id": "root"
+    },
+    {
+      "name": "hj",
+      "type": "version",
+      "description": "书本版本：hj",
+      "index": 1,
+      "node_id": "version_hj",
+      "id": "version_hj"
+    },
+    {
+      "name": "Chapter 0",
+      "type": "chapter",
+      "description": "章节：第1章（编号：0）",
+      "chapter_number": 0,
+      "sentence_count": 25,
+      "node_id": "chapter_hj_0",
+      "id": "chapter_hj_0"
+    },
+    {
+      "name": "Sentence 0",
+      "type": "sentence",
+      "description": "章节0中的第1句",
+      "chapter_number": 0,
+      "sentence_number": 0,
+      "text": "上德不德",
+      "version": "hj",
+      "node_id": "sentence_hj_0_0",
+      "id": "sentence_hj_0_0"
+    },
+    {
+      "name": "Sentence 1",
+      "type": "sentence",
+      "description": "章节0中的第2句",
+      "chapter_number": 0,
+      "sentence_number": 1,
+      "text": "是以有德",
+      "version": "hj",
+      "node_id": "sentence_hj_0_1",
+      "id": "sentence_hj_0_1"
+    },
+    {
+      "name": "Sentence 2",
+      "type": "sentence",
+      "description": "章节0中的第3句",
+      "chapter_number": 0,
+      "sentence_number": 2,
+      "text": "下德不失德",
+      "version": "hj",
+      "node_id": "sentence_hj_0_2",
+      "id": "sentence_hj_0_2"
+    },
+    {
+      "name": "Sentence 3",
+      "type": "sentence",
+      "description": "章节0中的第4句",
+      "chapter_number": 0,
+      "sentence_number": 3,
+      "text": "是以無德",
+      "version": "hj",
+      "node_id": "sentence_hj_0_3",
+      "id": "sentence_hj_0_3"
+    },
+    {
+      "name": "Sentence 4",
+      "type": "sentence",
+      "description": "章节0中的第5句",
+      "chapter_number": 0,
+      "sentence_number": 4,
+      "text": "上德無爲而無以爲",
+      "version": "hj",
+      "node_id": "sentence_hj_0_4",
+      "id": "sentence_hj_0_4"
+    },
+    {
+      "name": "Sentence 5",
+      "type": "sentence",
+      "description": "章节0中的第6句",
+      "chapter_number": 0,
+      "sentence_number": 5,
+      "text": "下德□之而無以爲",
+      "version": "hj",
+      "node_id": "sentence_hj_0_5",
+      "id": "sentence_hj_0_5"
+    },
+    {
+        "name": "bb",
+        "type": "version",
+        "description": "书本版本：bb",
+        "index": 7,
+        "node_id": "version_bb",
+        "id": "version_bb"
+      },
+      {
+        "name": "Chapter 0",
+        "type": "chapter",
+        "description": "章节：第1章（编号：0）",
+        "chapter_number": 0,
+        "sentence_count": 24,
+        "node_id": "chapter_bb_0",
+        "id": "chapter_bb_0"
+      },
+      {
+        "name": "Sentence 0",
+        "type": "sentence",
+        "description": "章节0中的第1句",
+        "chapter_number": 0,
+        "sentence_number": 0,
+        "text": "上德不德",
+        "version": "bb",
+        "node_id": "sentence_bb_0_0",
+        "id": "sentence_bb_0_0"
+      },
+      {
+        "name": "Sentence 1",
+        "type": "sentence",
+        "description": "章节0中的第2句",
+        "chapter_number": 0,
+        "sentence_number": 1,
+        "text": "是以有德",
+        "version": "bb",
+        "node_id": "sentence_bb_0_1",
+        "id": "sentence_bb_0_1"
+      },
+      {
+        "name": "Sentence 2",
+        "type": "sentence",
+        "description": "章节0中的第3句",
+        "chapter_number": 0,
+        "sentence_number": 2,
+        "text": "下德不失德",
+        "version": "bb",
+        "node_id": "sentence_bb_0_2",
+        "id": "sentence_bb_0_2"
+      },
+      {
+        "name": "Sentence 3",
+        "type": "sentence",
+        "description": "章节0中的第4句",
+        "chapter_number": 0,
+        "sentence_number": 3,
+        "text": "是以无德",
+        "version": "bb",
+        "node_id": "sentence_bb_0_3",
+        "id": "sentence_bb_0_3"
+      },
+      {
+        "name": "Sentence 4",
+        "type": "sentence",
+        "description": "章节0中的第5句",
+        "chapter_number": 0,
+        "sentence_number": 4,
+        "text": "上德无爲而无以爲也",
+        "version": "bb",
+        "node_id": "sentence_bb_0_4",
+        "id": "sentence_bb_0_4"
+      },
+      {
+        "name": "Sentence 6",
+        "type": "sentence",
+        "description": "章节0中的第7句",
+        "chapter_number": 0,
+        "sentence_number": 6,
+        "text": "上仁爲之而无以爲也",
+        "version": "bb",
+        "node_id": "sentence_bb_0_6",
+        "id": "sentence_bb_0_6"
+      },
+      {
+        "name": "Sentence 7",
+        "type": "sentence",
+        "description": "章节0中的第8句",
+        "chapter_number": 0,
+        "sentence_number": 7,
+        "text": "上德爲之而有以爲也",
+        "version": "bb",
+        "node_id": "sentence_bb_0_7",
+        "id": "sentence_bb_0_7"
+      },
+      {
+        "name": "Sentence 8",
+        "type": "sentence",
+        "description": "章节0中的第9句",
+        "chapter_number": 0,
+        "sentence_number": 8,
+        "text": "上禮爲之而莫之應也",
+        "version": "bb",
+        "node_id": "sentence_bb_0_8",
+        "id": "sentence_bb_0_8"
+      },
+      {
+        "name": "Sentence 9",
+        "type": "sentence",
+        "description": "章节0中的第10句",
+        "chapter_number": 0,
+        "sentence_number": 9,
+        "text": "則攘臂而乃之",
+        "version": "bb",
+        "node_id": "sentence_bb_0_9",
+        "id": "sentence_bb_0_9"
+      },
+      {
+        "name": "Sentence 10",
+        "type": "sentence",
+        "description": "章节0中的第11句",
+        "chapter_number": 0,
+        "sentence_number": 10,
+        "text": "故失道而后德",
+        "version": "bb",
+        "node_id": "sentence_bb_0_10",
+        "id": "sentence_bb_0_10"
+      },
+      {
+        "name": "Sentence 11",
+        "type": "sentence",
+        "description": "章节0中的第12句",
+        "chapter_number": 0,
+        "sentence_number": 11,
+        "text": "失德而句仁",
+        "version": "bb",
+        "node_id": "sentence_bb_0_11",
+        "id": "sentence_bb_0_11"
+      },
+      {
+        "name": "Sentence 12",
+        "type": "sentence",
+        "description": "章节0中的第13句",
+        "chapter_number": 0,
+        "sentence_number": 12,
+        "text": "失仁而句義",
+        "version": "bb",
+        "node_id": "sentence_bb_0_12",
+        "id": "sentence_bb_0_12"
+      },
+      {
+        "name": "Sentence 13",
+        "type": "sentence",
+        "description": "章节0中的第14句",
+        "chapter_number": 0,
+        "sentence_number": 13,
+        "text": "失義而句禮",
+        "version": "bb",
+        "node_id": "sentence_bb_0_13",
+        "id": "sentence_bb_0_13"
+      },
+      {
+        "name": "Sentence 14",
+        "type": "sentence",
+        "description": "章节0中的第15句",
+        "chapter_number": 0,
+        "sentence_number": 14,
+        "text": "夫禮者",
+        "version": "bb",
+        "node_id": "sentence_bb_0_14",
+        "id": "sentence_bb_0_14"
+      },
+      {
+        "name": "Sentence 15",
+        "type": "sentence",
+        "description": "章节0中的第16句",
+        "chapter_number": 0,
+        "sentence_number": 15,
+        "text": "忠信之泊也",
+        "version": "bb",
+        "node_id": "sentence_bb_0_15",
+        "id": "sentence_bb_0_15"
+      },
+      {
+        "name": "Sentence 16",
+        "type": "sentence",
+        "description": "章节0中的第17句",
+        "chapter_number": 0,
+        "sentence_number": 16,
+        "text": "而亂之首也",
+        "version": "bb",
+        "node_id": "sentence_bb_0_16",
+        "id": "sentence_bb_0_16"
+      },
+      {
+        "name": "Sentence 17",
+        "type": "sentence",
+        "description": "章节0中的第18句",
+        "chapter_number": 0,
+        "sentence_number": 17,
+        "text": "前識者",
+        "version": "bb",
+        "node_id": "sentence_bb_0_17",
+        "id": "sentence_bb_0_17"
+      },
+      {
+        "name": "Sentence 18",
+        "type": "sentence",
+        "description": "章节0中的第19句",
+        "chapter_number": 0,
+        "sentence_number": 18,
+        "text": "道之華也",
+        "version": "bb",
+        "node_id": "sentence_bb_0_18",
+        "id": "sentence_bb_0_18"
+      },
+      {
+        "name": "Sentence 19",
+        "type": "sentence",
+        "description": "章节0中的第20句",
+        "chapter_number": 0,
+        "sentence_number": 19,
+        "text": "而愚之首也",
+        "version": "bb",
+        "node_id": "sentence_bb_0_19",
+        "id": "sentence_bb_0_19"
+      },
+      {
+        "name": "Sentence 20",
+        "type": "sentence",
+        "description": "章节0中的第21句",
+        "chapter_number": 0,
+        "sentence_number": 20,
+        "text": "是以大丈夫居□□",
+        "version": "bb",
+        "node_id": "sentence_bb_0_20",
+        "id": "sentence_bb_0_20"
+      },
+      {
+        "name": "Sentence 21",
+        "type": "sentence",
+        "description": "章节0中的第22句",
+        "chapter_number": 0,
+        "sentence_number": 21,
+        "text": "□□居亓泊",
+        "version": "bb",
+        "node_id": "sentence_bb_0_21",
+        "id": "sentence_bb_0_21"
+      },
+      {
+        "name": "Sentence 22",
+        "type": "sentence",
+        "description": "章节0中的第23句",
+        "chapter_number": 0,
+        "sentence_number": 22,
+        "text": "居亓實",
+        "version": "bb",
+        "node_id": "sentence_bb_0_22",
+        "id": "sentence_bb_0_22"
+      },
+      {
+        "name": "Sentence 23",
+        "type": "sentence",
+        "description": "章节0中的第24句",
+        "chapter_number": 0,
+        "sentence_number": 23,
+        "text": "而不居亓華",
+        "version": "bb",
+        "node_id": "sentence_bb_0_23",
+        "id": "sentence_bb_0_23"
+      },
+      {
+        "name": "Sentence 24",
+        "type": "sentence",
+        "description": "章节0中的第25句",
+        "chapter_number": 0,
+        "sentence_number": 24,
+        "text": "故去罷而取此",
+        "version": "bb",
+        "node_id": "sentence_bb_0_24",
+        "id": "sentence_bb_0_24"
+      },
+      {
+        "name": "Chapter 1",
+        "type": "chapter",
+        "description": "章节：第2章（编号：1）",
+        "chapter_number": 1,
+        "sentence_count": 20,
+        "node_id": "chapter_bb_1",
+        "id": "chapter_bb_1"
+      },
+      {
+        "name": "Sentence 0",
+        "type": "sentence",
+        "description": "章节1中的第1句",
+        "chapter_number": 1,
+        "sentence_number": 0,
+        "text": "昔得一者",
+        "version": "bb",
+        "node_id": "sentence_bb_1_0",
+        "id": "sentence_bb_1_0"
+      },
+      {
+        "name": "Sentence 1",
+        "type": "sentence",
+        "description": "章节1中的第2句",
+        "chapter_number": 1,
+        "sentence_number": 1,
+        "text": "天得一以清",
+        "version": "bb",
+        "node_id": "sentence_bb_1_1",
+        "id": "sentence_bb_1_1"
+      },
+      {
+        "name": "Sentence 2",
+        "type": "sentence",
+        "description": "章节1中的第3句",
+        "chapter_number": 1,
+        "sentence_number": 2,
+        "text": "地得一以寧",
+        "version": "bb",
+        "node_id": "sentence_bb_1_2",
+        "id": "sentence_bb_1_2"
+      },
+      {
+        "name": "Sentence 3",
+        "type": "sentence",
+        "description": "章节1中的第4句",
+        "chapter_number": 1,
+        "sentence_number": 3,
+        "text": "神得一以霝",
+        "version": "bb",
+        "node_id": "sentence_bb_1_3",
+        "id": "sentence_bb_1_3"
+      },
+      {
+        "name": "Sentence 4",
+        "type": "sentence",
+        "description": "章节1中的第5句",
+        "chapter_number": 1,
+        "sentence_number": 4,
+        "text": "浴得一盈",
+        "version": "bb",
+        "node_id": "sentence_bb_1_4",
+        "id": "sentence_bb_1_4"
+      },
+      {
+        "name": "Sentence 6",
+        "type": "sentence",
+        "description": "章节1中的第7句",
+        "chapter_number": 1,
+        "sentence_number": 6,
+        "text": "侯王得一以爲天下正",
+        "version": "bb",
+        "node_id": "sentence_bb_1_6",
+        "id": "sentence_bb_1_6"
+      },
+      {
+        "name": "Sentence 7",
+        "type": "sentence",
+        "description": "章节1中的第8句",
+        "chapter_number": 1,
+        "sentence_number": 7,
+        "text": "亓至也",
+        "version": "bb",
+        "node_id": "sentence_bb_1_7",
+        "id": "sentence_bb_1_7"
+      },
+      {
+        "name": "Sentence 8",
+        "type": "sentence",
+        "description": "章节1中的第9句",
+        "chapter_number": 1,
+        "sentence_number": 8,
+        "text": "胃天毋已清將恐蓮",
+        "version": "bb",
+        "node_id": "sentence_bb_1_8",
+        "id": "sentence_bb_1_8"
+      },
+      {
+        "name": "Sentence 9",
+        "type": "sentence",
+        "description": "章节1中的第10句",
+        "chapter_number": 1,
+        "sentence_number": 9,
+        "text": "地毋已寧將恐發",
+        "version": "bb",
+        "node_id": "sentence_bb_1_9",
+        "id": "sentence_bb_1_9"
+      }
+],
+"links": [
+    {
+      "source": "root",
+      "target": "version_hj"
+    },
+    {
+        "source": "root",
+        "target": "version_bb"
+
+    },
+    {
+      "source": "version_hj",
+      "target": "chapter_hj_0"
+    },
+    {
+        "source": "version_bb",
+        "target": "chapter_bb_0"
+    },
+    {
+        "source": "version_bb",
+        "target": "chapter_bb_1"
+    },
+    {
+      "source": "chapter_hj_0",
+      "target": "sentence_hj_0_0"
+    },
+    {
+        "source": "chapter_hj_0",
+        "target": "sentence_hj_0_1"
+    },
+    {
+        "source": "chapter_hj_0",
+        "target": "sentence_hj_0_2"
+    },
+    {
+        "source": "chapter_hj_0",
+        "target": "sentence_hj_0_3"
+    },
+    {
+        "source": "chapter_hj_0",
+        "target": "sentence_hj_0_4"
+    },
+    {
+        "source": "chapter_hj_0",
+        "target": "sentence_hj_0_5"
+    },
+    {
+        "source": "chapter_bb_0",
+        "target": "sentence_bb_0_0"
+    },
+    {
+        "source": "chapter_bb_0",
+        "target": "sentence_bb_0_1"
+    },
+    {
+        "source": "chapter_bb_0",
+        "target": "sentence_bb_0_2"
+    },
+    {
+        "source": "chapter_bb_0",
+        "target": "sentence_bb_0_3"
+    },
+    {
+        "source": "chapter_bb_0",
+        "target": "sentence_bb_0_4"
+    },
+    {
+        "source": "chapter_bb_0",
+        "target": "sentence_bb_0_6"
+    },
+    {
+        "source": "chapter_bb_0",
+        "target": "sentence_bb_0_7"
+    },
+    {
+        "source": "chapter_bb_0",
+        "target": "sentence_bb_0_8"
+    },
+    {
+        "source": "chapter_bb_0",
+        "target": "sentence_bb_0_9"
+    },
+    {
+        "source": "chapter_bb_0",
+        "target": "sentence_bb_0_10"
+    },
+    {
+        "source": "chapter_bb_0",
+        "target": "sentence_bb_0_11"
+    },{
+        "source": "chapter_bb_0",
+        "target": "sentence_bb_0_12"
+    },{
+        "source": "chapter_bb_0",
+        "target": "sentence_bb_0_13"
+    },{
+        "source": "chapter_bb_0",
+        "target": "sentence_bb_0_14"
+    },{
+        "source": "chapter_bb_0",
+        "target": "sentence_bb_0_15"
+    },{
+        "source": "chapter_bb_0",
+        "target": "sentence_bb_0_16"
+    },{
+        "source": "chapter_bb_0",
+        "target": "sentence_bb_0_17"
+    },{
+        "source": "chapter_bb_0",
+        "target": "sentence_bb_0_18"
+    },{
+        "source": "chapter_bb_0",
+        "target": "sentence_bb_0_19"
+    },{
+        "source": "chapter_bb_0",
+        "target": "sentence_bb_0_20"
+    },{
+        "source": "chapter_bb_0",
+        "target": "sentence_bb_0_21"
+    },{
+        "source": "chapter_bb_0",
+        "target": "sentence_bb_0_22"
+    },{
+        "source": "chapter_bb_0",
+        "target": "sentence_bb_0_23"
+    },{
+        "source": "chapter_bb_0",
+        "target": "sentence_bb_0_24"
+    },{
+        "source": "chapter_bb_1",
+        "target": "sentence_bb_1_0"
+    },{
+        "source": "chapter_bb_1",
+        "target": "sentence_bb_1_1"
+    },{
+        "source": "chapter_bb_1",
+        "target": "sentence_bb_1_2"
+    },{
+        "source": "chapter_bb_1",
+        "target": "sentence_bb_1_3"
+    },{
+        "source": "chapter_bb_1",
+        "target": "sentence_bb_1_4"
+    },{
+        "source": "chapter_bb_1",
+        "target": "sentence_bb_1_6"
+    },{
+        "source": "chapter_bb_1",
+        "target": "sentence_bb_1_7"
+    },{
+        "source": "chapter_bb_1",
+        "target": "sentence_bb_1_8"
+    },{
+        "source": "chapter_bb_1",
+        "target": "sentence_bb_1_9"
+    }
+]
+}

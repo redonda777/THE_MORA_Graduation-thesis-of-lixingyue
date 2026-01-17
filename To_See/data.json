@@ -1,0 +1,41 @@
+{
+  "nodes": [
+    {"id": "root", "name": "道德经", "description": "作者：老子", "color": "#ff6b6b"},
+    {"id": "level1_1", "name": "版本1", "description": "第一层子节点", "color": "#4ecdc4"},
+    {"id": "level1_2", "name": "版本2", "description": "第一层子节点", "color": "#45b7d1"},
+    {"id": "level1_3", "name": "版本3", "description": "第一层子节点", "color": "#96ceb4"},
+    {"id": "level2_1", "name": "版本1第一章", "description": "第二层子节点", "color": "#ffeaa7"},
+    {"id": "level2_2", "name": "版本1第二章", "description": "第二层子节点", "color": "#dda15e"},
+    {"id": "level2_3", "name": "版本2第一章", "description": "第二层子节点", "color": "#bc6c25"},
+    {"id": "level2_4", "name": "版本2第二章", "description": "第二层子节点", "color": "#6c5ce7"},
+    {"id": "level2_5", "name": "版本3第一章", "description": "第二层子节点", "color": "#a29bfe"},
+    {"id": "level3_1", "name": "版本1第一章第一节", "description": "第三层子节点", "color": "#fd79a8"},
+    {"id": "level3_2", "name": "版本1第一章第二节", "description": "第三层子节点", "color": "#fdcb6e"},
+    {"id": "level3_3", "name": "版本1第二章第一节", "description": "第三层子节点", "color": "#e17055"},
+    {"id": "level3_4", "name": "版本2第一章第一节", "description": "第三层子节点", "color": "#74b9ff"},
+    {"id": "level3_5", "name": "版本2第一章第二节", "description": "第三层子节点", "color": "#55efc4"},
+    {"id": "level3_6", "name": "版本3第一章第一节", "description": "第三层子节点", "color": "#a29bfe"},
+    {"id": "level4_1", "name": "版本1第一章第一节第一小节", "description": "第四层子节点", "color": "#fd79a8"},
+    {"id": "level4_2", "name": "版本1第一章第一节第二小节", "description": "第四层子节点", "color": "#fdcb6e"},
+    {"id": "level4_3", "name": "版本2第一章第一节第一小节", "description": "第四层子节点", "color": "#e17055"}
+  ],
+  "links": [
+    {"source": "root", "target": "level1_1"},
+    {"source": "root", "target": "level1_2"},
+    {"source": "root", "target": "level1_3"},
+    {"source": "level1_1", "target": "level2_1"},
+    {"source": "level1_1", "target": "level2_2"},
+    {"source": "level1_2", "target": "level2_3"},
+    {"source": "level1_2", "target": "level2_4"},
+    {"source": "level1_3", "target": "level2_5"},
+    {"source": "level2_1", "target": "level3_1"},
+    {"source": "level2_1", "target": "level3_2"},
+    {"source": "level2_2", "target": "level3_3"},
+    {"source": "level2_3", "target": "level3_4"},
+    {"source": "level2_4", "target": "level3_5"},
+    {"source": "level2_5", "target": "level3_6"},
+    {"source": "level3_1", "target": "level4_1"},
+    {"source": "level3_1", "target": "level4_2"},
+    {"source": "level3_4", "target": "level4_3"}
+  ]
+}

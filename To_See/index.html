@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>交互式节点网络图</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>交互式节点网络可视化</h1>
+            <div class="controls">
+                <button id="resetBtn">重置视图</button>
+                <button id="toggleLabels">切换标签</button>
+                <div class="info">
+                    <span>节点数: <span id="nodeCount">0</span></span>
+                    <span>连接数: <span id="linkCount">0</span></span>
+                </div>
+            </div>
+        </header>
+        <div id="visualization"></div>
+    </div>
+    <script src="visualization.js"></script>
+</body>
+</html>
