@@ -1,0 +1,68 @@
+[
+  {
+    "chapter_number": 10,
+    "sentence_number": 7,
+    "original_text_version": "hj",
+    "original_text": "及其有事",
+    "modified_text_version": "bb",
+    "modified_text": "及亓有事也",
+    "edit_distance": 2,
+    "operations": [
+      {
+        "type": "replace",
+        "original_char": "其",
+        "target_char": "亓",
+        "position": 1,
+        "relation_type": "通假字",
+        "reason": "其与亓在古汉语中为通假字，亓为其的异体字，常用于古籍中。",
+        "custom_cost": 0.5
+      },
+      {
+        "type": "insert",
+        "char": "也",
+        "position": 4,
+        "relation_type": "补字",
+        "reason": "根据规则：插入视为补字，固定代价0.2",
+        "custom_cost": 0.2
+      }
+    ],
+    "custom_edit_distance": 0.7
+  },
+  {
+    "chapter_number": 35,
+    "sentence_number": 6,
+    "original_text_version": "hj",
+    "original_text": "是以聖人自智而不自見也",
+    "modified_text_version": "hs",
+    "modified_text": "是以聖人自知不自見",
+    "edit_distance": 3,
+    "operations": [
+      {
+        "type": "delete",
+        "char": "智",
+        "position": 5,
+        "relation_type": "误抄",
+        "reason": "根据规则：删除视为误抄，固定代价2",
+        "custom_cost": 2.0
+      },
+      {
+        "type": "replace",
+        "original_char": "而",
+        "target_char": "知",
+        "position": 6,
+        "relation_type": "同义替换",
+        "reason": "「而」与「知」在此处为同义替换，表示「自己了解」的含义。",
+        "custom_cost": 0
+      },
+      {
+        "type": "delete",
+        "char": "也",
+        "position": 10,
+        "relation_type": "误抄",
+        "reason": "根据规则：删除视为误抄，固定代价2",
+        "custom_cost": 2.0
+      }
+    ],
+    "custom_edit_distance": 4.0
+  }
+]

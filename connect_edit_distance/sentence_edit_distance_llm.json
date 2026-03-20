@@ -1,0 +1,7514 @@
+[
+  {
+    "chapter_number": 0,
+    "sentence_number": 0,
+    "original_text_version": "ba",
+    "original_text": "□□□□",
+    "modified_text_version": "bb",
+    "modified_text": "上德不德",
+    "edit_distance": 4,
+    "operations": [
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "上",
+        "position": 0
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "德",
+        "position": 1
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "不",
+        "position": 2
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "德",
+        "position": 3
+      }
+    ],
+    "operations_dp": [
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "上",
+        "position": 0
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "德",
+        "position": 1
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "不",
+        "position": 2
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "德",
+        "position": 3
+      }
+    ],
+    "operations_llm": [
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "上",
+        "position": 0
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "德",
+        "position": 1
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "不",
+        "position": 2
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "德",
+        "position": 3
+      }
+    ],
+    "edit_distance_llm": 4
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 0,
+    "original_text_version": "ba",
+    "original_text": "□□□□",
+    "modified_text_version": "fy",
+    "modified_text": "上德不德",
+    "edit_distance": 4,
+    "operations": [
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "上",
+        "position": 0
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "德",
+        "position": 1
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "不",
+        "position": 2
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "德",
+        "position": 3
+      }
+    ],
+    "operations_dp": [
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "上",
+        "position": 0
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "德",
+        "position": 1
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "不",
+        "position": 2
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "德",
+        "position": 3
+      }
+    ],
+    "operations_llm": [
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "上",
+        "position": 0
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "德",
+        "position": 1
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "不",
+        "position": 2
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "德",
+        "position": 3
+      }
+    ],
+    "edit_distance_llm": 4
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 0,
+    "original_text_version": "ba",
+    "original_text": "□□□□",
+    "modified_text_version": "hj",
+    "modified_text": "上德不德",
+    "edit_distance": 4,
+    "operations": [
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "上",
+        "position": 0
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "德",
+        "position": 1
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "不",
+        "position": 2
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "德",
+        "position": 3
+      }
+    ],
+    "operations_dp": [
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "上",
+        "position": 0
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "德",
+        "position": 1
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "不",
+        "position": 2
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "德",
+        "position": 3
+      }
+    ],
+    "operations_llm": [
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "上",
+        "position": 0
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "德",
+        "position": 1
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "不",
+        "position": 2
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "德",
+        "position": 3
+      }
+    ],
+    "edit_distance_llm": 4
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 0,
+    "original_text_version": "ba",
+    "original_text": "□□□□",
+    "modified_text_version": "hs",
+    "modified_text": "上德不德",
+    "edit_distance": 4,
+    "operations": [
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "上",
+        "position": 0
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "德",
+        "position": 1
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "不",
+        "position": 2
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "德",
+        "position": 3
+      }
+    ],
+    "operations_dp": [
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "上",
+        "position": 0
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "德",
+        "position": 1
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "不",
+        "position": 2
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "德",
+        "position": 3
+      }
+    ],
+    "operations_llm": [
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "上",
+        "position": 0
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "德",
+        "position": 1
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "不",
+        "position": 2
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "德",
+        "position": 3
+      }
+    ],
+    "edit_distance_llm": 4
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 0,
+    "original_text_version": "ba",
+    "original_text": "□□□□",
+    "modified_text_version": "wb",
+    "modified_text": "上德不德",
+    "edit_distance": 4,
+    "operations": [
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "上",
+        "position": 0
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "德",
+        "position": 1
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "不",
+        "position": 2
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "德",
+        "position": 3
+      }
+    ],
+    "operations_dp": [
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "上",
+        "position": 0
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "德",
+        "position": 1
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "不",
+        "position": 2
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "德",
+        "position": 3
+      }
+    ],
+    "operations_llm": [
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "上",
+        "position": 0
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "德",
+        "position": 1
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "不",
+        "position": 2
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "德",
+        "position": 3
+      }
+    ],
+    "edit_distance_llm": 4
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 0,
+    "original_text_version": "ba",
+    "original_text": "□□□□",
+    "modified_text_version": "yz",
+    "modified_text": "上德不德",
+    "edit_distance": 4,
+    "operations": [
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "上",
+        "position": 0
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "德",
+        "position": 1
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "不",
+        "position": 2
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "德",
+        "position": 3
+      }
+    ],
+    "operations_dp": [
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "上",
+        "position": 0
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "德",
+        "position": 1
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "不",
+        "position": 2
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "德",
+        "position": 3
+      }
+    ],
+    "operations_llm": [
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "上",
+        "position": 0
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "德",
+        "position": 1
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "不",
+        "position": 2
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "德",
+        "position": 3
+      }
+    ],
+    "edit_distance_llm": 4
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 0,
+    "original_text_version": "bb",
+    "original_text": "上德不德",
+    "modified_text_version": "fy",
+    "modified_text": "上德不德",
+    "edit_distance": 0,
+    "operations": [],
+    "operations_dp": [],
+    "operations_llm": [],
+    "edit_distance_llm": 0
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 0,
+    "original_text_version": "bb",
+    "original_text": "上德不德",
+    "modified_text_version": "hj",
+    "modified_text": "上德不德",
+    "edit_distance": 0,
+    "operations": [],
+    "operations_dp": [],
+    "operations_llm": [],
+    "edit_distance_llm": 0
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 0,
+    "original_text_version": "bb",
+    "original_text": "上德不德",
+    "modified_text_version": "hs",
+    "modified_text": "上德不德",
+    "edit_distance": 0,
+    "operations": [],
+    "operations_dp": [],
+    "operations_llm": [],
+    "edit_distance_llm": 0
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 0,
+    "original_text_version": "bb",
+    "original_text": "上德不德",
+    "modified_text_version": "wb",
+    "modified_text": "上德不德",
+    "edit_distance": 0,
+    "operations": [],
+    "operations_dp": [],
+    "operations_llm": [],
+    "edit_distance_llm": 0
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 0,
+    "original_text_version": "bb",
+    "original_text": "上德不德",
+    "modified_text_version": "yz",
+    "modified_text": "上德不德",
+    "edit_distance": 0,
+    "operations": [],
+    "operations_dp": [],
+    "operations_llm": [],
+    "edit_distance_llm": 0
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 0,
+    "original_text_version": "fy",
+    "original_text": "上德不德",
+    "modified_text_version": "hj",
+    "modified_text": "上德不德",
+    "edit_distance": 0,
+    "operations": [],
+    "operations_dp": [],
+    "operations_llm": [],
+    "edit_distance_llm": 0
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 0,
+    "original_text_version": "fy",
+    "original_text": "上德不德",
+    "modified_text_version": "hs",
+    "modified_text": "上德不德",
+    "edit_distance": 0,
+    "operations": [],
+    "operations_dp": [],
+    "operations_llm": [],
+    "edit_distance_llm": 0
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 0,
+    "original_text_version": "fy",
+    "original_text": "上德不德",
+    "modified_text_version": "wb",
+    "modified_text": "上德不德",
+    "edit_distance": 0,
+    "operations": [],
+    "operations_dp": [],
+    "operations_llm": [],
+    "edit_distance_llm": 0
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 0,
+    "original_text_version": "fy",
+    "original_text": "上德不德",
+    "modified_text_version": "yz",
+    "modified_text": "上德不德",
+    "edit_distance": 0,
+    "operations": [],
+    "operations_dp": [],
+    "operations_llm": [],
+    "edit_distance_llm": 0
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 0,
+    "original_text_version": "hj",
+    "original_text": "上德不德",
+    "modified_text_version": "hs",
+    "modified_text": "上德不德",
+    "edit_distance": 0,
+    "operations": [],
+    "operations_dp": [],
+    "operations_llm": [],
+    "edit_distance_llm": 0
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 0,
+    "original_text_version": "hj",
+    "original_text": "上德不德",
+    "modified_text_version": "wb",
+    "modified_text": "上德不德",
+    "edit_distance": 0,
+    "operations": [],
+    "operations_dp": [],
+    "operations_llm": [],
+    "edit_distance_llm": 0
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 0,
+    "original_text_version": "hj",
+    "original_text": "上德不德",
+    "modified_text_version": "yz",
+    "modified_text": "上德不德",
+    "edit_distance": 0,
+    "operations": [],
+    "operations_dp": [],
+    "operations_llm": [],
+    "edit_distance_llm": 0
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 0,
+    "original_text_version": "hs",
+    "original_text": "上德不德",
+    "modified_text_version": "wb",
+    "modified_text": "上德不德",
+    "edit_distance": 0,
+    "operations": [],
+    "operations_dp": [],
+    "operations_llm": [],
+    "edit_distance_llm": 0
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 0,
+    "original_text_version": "hs",
+    "original_text": "上德不德",
+    "modified_text_version": "yz",
+    "modified_text": "上德不德",
+    "edit_distance": 0,
+    "operations": [],
+    "operations_dp": [],
+    "operations_llm": [],
+    "edit_distance_llm": 0
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 0,
+    "original_text_version": "wb",
+    "original_text": "上德不德",
+    "modified_text_version": "yz",
+    "modified_text": "上德不德",
+    "edit_distance": 0,
+    "operations": [],
+    "operations_dp": [],
+    "operations_llm": [],
+    "edit_distance_llm": 0
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 1,
+    "original_text_version": "ba",
+    "original_text": "□□□□",
+    "modified_text_version": "bb",
+    "modified_text": "是以有德",
+    "edit_distance": 4,
+    "operations": [
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "是",
+        "position": 0
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "以",
+        "position": 1
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "有",
+        "position": 2
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "德",
+        "position": 3
+      }
+    ],
+    "operations_dp": [
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "是",
+        "position": 0
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "以",
+        "position": 1
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "有",
+        "position": 2
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "德",
+        "position": 3
+      }
+    ],
+    "operations_llm": [
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "是",
+        "position": 0
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "以",
+        "position": 1
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "有",
+        "position": 2
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "德",
+        "position": 3
+      }
+    ],
+    "edit_distance_llm": 4
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 1,
+    "original_text_version": "ba",
+    "original_text": "□□□□",
+    "modified_text_version": "fy",
+    "modified_text": "是以有德",
+    "edit_distance": 4,
+    "operations": [
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "是",
+        "position": 0
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "以",
+        "position": 1
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "有",
+        "position": 2
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "德",
+        "position": 3
+      }
+    ],
+    "operations_dp": [
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "是",
+        "position": 0
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "以",
+        "position": 1
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "有",
+        "position": 2
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "德",
+        "position": 3
+      }
+    ],
+    "operations_llm": [
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "是",
+        "position": 0
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "以",
+        "position": 1
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "有",
+        "position": 2
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "德",
+        "position": 3
+      }
+    ],
+    "edit_distance_llm": 4
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 1,
+    "original_text_version": "ba",
+    "original_text": "□□□□",
+    "modified_text_version": "hj",
+    "modified_text": "是以有德",
+    "edit_distance": 4,
+    "operations": [
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "是",
+        "position": 0
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "以",
+        "position": 1
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "有",
+        "position": 2
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "德",
+        "position": 3
+      }
+    ],
+    "operations_dp": [
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "是",
+        "position": 0
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "以",
+        "position": 1
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "有",
+        "position": 2
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "德",
+        "position": 3
+      }
+    ],
+    "operations_llm": [
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "是",
+        "position": 0
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "以",
+        "position": 1
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "有",
+        "position": 2
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "德",
+        "position": 3
+      }
+    ],
+    "edit_distance_llm": 4
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 1,
+    "original_text_version": "ba",
+    "original_text": "□□□□",
+    "modified_text_version": "hs",
+    "modified_text": "是以有德",
+    "edit_distance": 4,
+    "operations": [
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "是",
+        "position": 0
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "以",
+        "position": 1
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "有",
+        "position": 2
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "德",
+        "position": 3
+      }
+    ],
+    "operations_dp": [
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "是",
+        "position": 0
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "以",
+        "position": 1
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "有",
+        "position": 2
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "德",
+        "position": 3
+      }
+    ],
+    "operations_llm": [
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "是",
+        "position": 0
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "以",
+        "position": 1
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "有",
+        "position": 2
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "德",
+        "position": 3
+      }
+    ],
+    "edit_distance_llm": 4
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 1,
+    "original_text_version": "ba",
+    "original_text": "□□□□",
+    "modified_text_version": "wb",
+    "modified_text": "是以有德",
+    "edit_distance": 4,
+    "operations": [
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "是",
+        "position": 0
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "以",
+        "position": 1
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "有",
+        "position": 2
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "德",
+        "position": 3
+      }
+    ],
+    "operations_dp": [
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "是",
+        "position": 0
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "以",
+        "position": 1
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "有",
+        "position": 2
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "德",
+        "position": 3
+      }
+    ],
+    "operations_llm": [
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "是",
+        "position": 0
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "以",
+        "position": 1
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "有",
+        "position": 2
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "德",
+        "position": 3
+      }
+    ],
+    "edit_distance_llm": 4
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 1,
+    "original_text_version": "ba",
+    "original_text": "□□□□",
+    "modified_text_version": "yz",
+    "modified_text": "是以有德",
+    "edit_distance": 4,
+    "operations": [
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "是",
+        "position": 0
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "以",
+        "position": 1
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "有",
+        "position": 2
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "德",
+        "position": 3
+      }
+    ],
+    "operations_dp": [
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "是",
+        "position": 0
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "以",
+        "position": 1
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "有",
+        "position": 2
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "德",
+        "position": 3
+      }
+    ],
+    "operations_llm": [
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "是",
+        "position": 0
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "以",
+        "position": 1
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "有",
+        "position": 2
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "德",
+        "position": 3
+      }
+    ],
+    "edit_distance_llm": 4
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 1,
+    "original_text_version": "bb",
+    "original_text": "是以有德",
+    "modified_text_version": "fy",
+    "modified_text": "是以有德",
+    "edit_distance": 0,
+    "operations": [],
+    "operations_dp": [],
+    "operations_llm": [],
+    "edit_distance_llm": 0
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 1,
+    "original_text_version": "bb",
+    "original_text": "是以有德",
+    "modified_text_version": "hj",
+    "modified_text": "是以有德",
+    "edit_distance": 0,
+    "operations": [],
+    "operations_dp": [],
+    "operations_llm": [],
+    "edit_distance_llm": 0
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 1,
+    "original_text_version": "bb",
+    "original_text": "是以有德",
+    "modified_text_version": "hs",
+    "modified_text": "是以有德",
+    "edit_distance": 0,
+    "operations": [],
+    "operations_dp": [],
+    "operations_llm": [],
+    "edit_distance_llm": 0
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 1,
+    "original_text_version": "bb",
+    "original_text": "是以有德",
+    "modified_text_version": "wb",
+    "modified_text": "是以有德",
+    "edit_distance": 0,
+    "operations": [],
+    "operations_dp": [],
+    "operations_llm": [],
+    "edit_distance_llm": 0
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 1,
+    "original_text_version": "bb",
+    "original_text": "是以有德",
+    "modified_text_version": "yz",
+    "modified_text": "是以有德",
+    "edit_distance": 0,
+    "operations": [],
+    "operations_dp": [],
+    "operations_llm": [],
+    "edit_distance_llm": 0
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 1,
+    "original_text_version": "fy",
+    "original_text": "是以有德",
+    "modified_text_version": "hj",
+    "modified_text": "是以有德",
+    "edit_distance": 0,
+    "operations": [],
+    "operations_dp": [],
+    "operations_llm": [],
+    "edit_distance_llm": 0
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 1,
+    "original_text_version": "fy",
+    "original_text": "是以有德",
+    "modified_text_version": "hs",
+    "modified_text": "是以有德",
+    "edit_distance": 0,
+    "operations": [],
+    "operations_dp": [],
+    "operations_llm": [],
+    "edit_distance_llm": 0
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 1,
+    "original_text_version": "fy",
+    "original_text": "是以有德",
+    "modified_text_version": "wb",
+    "modified_text": "是以有德",
+    "edit_distance": 0,
+    "operations": [],
+    "operations_dp": [],
+    "operations_llm": [],
+    "edit_distance_llm": 0
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 1,
+    "original_text_version": "fy",
+    "original_text": "是以有德",
+    "modified_text_version": "yz",
+    "modified_text": "是以有德",
+    "edit_distance": 0,
+    "operations": [],
+    "operations_dp": [],
+    "operations_llm": [],
+    "edit_distance_llm": 0
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 1,
+    "original_text_version": "hj",
+    "original_text": "是以有德",
+    "modified_text_version": "hs",
+    "modified_text": "是以有德",
+    "edit_distance": 0,
+    "operations": [],
+    "operations_dp": [],
+    "operations_llm": [],
+    "edit_distance_llm": 0
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 1,
+    "original_text_version": "hj",
+    "original_text": "是以有德",
+    "modified_text_version": "wb",
+    "modified_text": "是以有德",
+    "edit_distance": 0,
+    "operations": [],
+    "operations_dp": [],
+    "operations_llm": [],
+    "edit_distance_llm": 0
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 1,
+    "original_text_version": "hj",
+    "original_text": "是以有德",
+    "modified_text_version": "yz",
+    "modified_text": "是以有德",
+    "edit_distance": 0,
+    "operations": [],
+    "operations_dp": [],
+    "operations_llm": [],
+    "edit_distance_llm": 0
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 1,
+    "original_text_version": "hs",
+    "original_text": "是以有德",
+    "modified_text_version": "wb",
+    "modified_text": "是以有德",
+    "edit_distance": 0,
+    "operations": [],
+    "operations_dp": [],
+    "operations_llm": [],
+    "edit_distance_llm": 0
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 1,
+    "original_text_version": "hs",
+    "original_text": "是以有德",
+    "modified_text_version": "yz",
+    "modified_text": "是以有德",
+    "edit_distance": 0,
+    "operations": [],
+    "operations_dp": [],
+    "operations_llm": [],
+    "edit_distance_llm": 0
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 1,
+    "original_text_version": "wb",
+    "original_text": "是以有德",
+    "modified_text_version": "yz",
+    "modified_text": "是以有德",
+    "edit_distance": 0,
+    "operations": [],
+    "operations_dp": [],
+    "operations_llm": [],
+    "edit_distance_llm": 0
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 2,
+    "original_text_version": "ba",
+    "original_text": "□□□□□",
+    "modified_text_version": "bb",
+    "modified_text": "下德不失德",
+    "edit_distance": 5,
+    "operations": [
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "下",
+        "position": 0
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "德",
+        "position": 1
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "不",
+        "position": 2
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "失",
+        "position": 3
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "德",
+        "position": 4
+      }
+    ],
+    "operations_dp": [
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "下",
+        "position": 0
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "德",
+        "position": 1
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "不",
+        "position": 2
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "失",
+        "position": 3
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "德",
+        "position": 4
+      }
+    ],
+    "operations_llm": [
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "下",
+        "position": 0
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "德",
+        "position": 1
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "不",
+        "position": 2
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "失",
+        "position": 3
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "德",
+        "position": 4
+      }
+    ],
+    "edit_distance_llm": 5
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 2,
+    "original_text_version": "ba",
+    "original_text": "□□□□□",
+    "modified_text_version": "fy",
+    "modified_text": "下德不失德",
+    "edit_distance": 5,
+    "operations": [
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "下",
+        "position": 0
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "德",
+        "position": 1
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "不",
+        "position": 2
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "失",
+        "position": 3
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "德",
+        "position": 4
+      }
+    ],
+    "operations_dp": [
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "下",
+        "position": 0
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "德",
+        "position": 1
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "不",
+        "position": 2
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "失",
+        "position": 3
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "德",
+        "position": 4
+      }
+    ],
+    "operations_llm": [
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "下",
+        "position": 0
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "德",
+        "position": 1
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "不",
+        "position": 2
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "失",
+        "position": 3
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "德",
+        "position": 4
+      }
+    ],
+    "edit_distance_llm": 5
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 2,
+    "original_text_version": "ba",
+    "original_text": "□□□□□",
+    "modified_text_version": "hj",
+    "modified_text": "下德不失德",
+    "edit_distance": 5,
+    "operations": [
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "下",
+        "position": 0
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "德",
+        "position": 1
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "不",
+        "position": 2
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "失",
+        "position": 3
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "德",
+        "position": 4
+      }
+    ],
+    "operations_dp": [
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "下",
+        "position": 0
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "德",
+        "position": 1
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "不",
+        "position": 2
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "失",
+        "position": 3
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "德",
+        "position": 4
+      }
+    ],
+    "operations_llm": [
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "下",
+        "position": 0
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "德",
+        "position": 1
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "不",
+        "position": 2
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "失",
+        "position": 3
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "德",
+        "position": 4
+      }
+    ],
+    "edit_distance_llm": 5
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 2,
+    "original_text_version": "ba",
+    "original_text": "□□□□□",
+    "modified_text_version": "hs",
+    "modified_text": "下德不失德",
+    "edit_distance": 5,
+    "operations": [
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "下",
+        "position": 0
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "德",
+        "position": 1
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "不",
+        "position": 2
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "失",
+        "position": 3
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "德",
+        "position": 4
+      }
+    ],
+    "operations_dp": [
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "下",
+        "position": 0
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "德",
+        "position": 1
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "不",
+        "position": 2
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "失",
+        "position": 3
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "德",
+        "position": 4
+      }
+    ],
+    "operations_llm": [
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "下",
+        "position": 0
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "德",
+        "position": 1
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "不",
+        "position": 2
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "失",
+        "position": 3
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "德",
+        "position": 4
+      }
+    ],
+    "edit_distance_llm": 5
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 2,
+    "original_text_version": "ba",
+    "original_text": "□□□□□",
+    "modified_text_version": "wb",
+    "modified_text": "下德不失德",
+    "edit_distance": 5,
+    "operations": [
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "下",
+        "position": 0
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "德",
+        "position": 1
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "不",
+        "position": 2
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "失",
+        "position": 3
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "德",
+        "position": 4
+      }
+    ],
+    "operations_dp": [
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "下",
+        "position": 0
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "德",
+        "position": 1
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "不",
+        "position": 2
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "失",
+        "position": 3
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "德",
+        "position": 4
+      }
+    ],
+    "operations_llm": [
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "下",
+        "position": 0
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "德",
+        "position": 1
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "不",
+        "position": 2
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "失",
+        "position": 3
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "德",
+        "position": 4
+      }
+    ],
+    "edit_distance_llm": 5
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 2,
+    "original_text_version": "ba",
+    "original_text": "□□□□□",
+    "modified_text_version": "yz",
+    "modified_text": "下德不失德",
+    "edit_distance": 5,
+    "operations": [
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "下",
+        "position": 0
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "德",
+        "position": 1
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "不",
+        "position": 2
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "失",
+        "position": 3
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "德",
+        "position": 4
+      }
+    ],
+    "operations_dp": [
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "下",
+        "position": 0
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "德",
+        "position": 1
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "不",
+        "position": 2
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "失",
+        "position": 3
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "德",
+        "position": 4
+      }
+    ],
+    "operations_llm": [
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "下",
+        "position": 0
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "德",
+        "position": 1
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "不",
+        "position": 2
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "失",
+        "position": 3
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "德",
+        "position": 4
+      }
+    ],
+    "edit_distance_llm": 5
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 2,
+    "original_text_version": "bb",
+    "original_text": "下德不失德",
+    "modified_text_version": "fy",
+    "modified_text": "下德不失德",
+    "edit_distance": 0,
+    "operations": [],
+    "operations_dp": [],
+    "operations_llm": [],
+    "edit_distance_llm": 0
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 2,
+    "original_text_version": "bb",
+    "original_text": "下德不失德",
+    "modified_text_version": "hj",
+    "modified_text": "下德不失德",
+    "edit_distance": 0,
+    "operations": [],
+    "operations_dp": [],
+    "operations_llm": [],
+    "edit_distance_llm": 0
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 2,
+    "original_text_version": "bb",
+    "original_text": "下德不失德",
+    "modified_text_version": "hs",
+    "modified_text": "下德不失德",
+    "edit_distance": 0,
+    "operations": [],
+    "operations_dp": [],
+    "operations_llm": [],
+    "edit_distance_llm": 0
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 2,
+    "original_text_version": "bb",
+    "original_text": "下德不失德",
+    "modified_text_version": "wb",
+    "modified_text": "下德不失德",
+    "edit_distance": 0,
+    "operations": [],
+    "operations_dp": [],
+    "operations_llm": [],
+    "edit_distance_llm": 0
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 2,
+    "original_text_version": "bb",
+    "original_text": "下德不失德",
+    "modified_text_version": "yz",
+    "modified_text": "下德不失德",
+    "edit_distance": 0,
+    "operations": [],
+    "operations_dp": [],
+    "operations_llm": [],
+    "edit_distance_llm": 0
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 2,
+    "original_text_version": "fy",
+    "original_text": "下德不失德",
+    "modified_text_version": "hj",
+    "modified_text": "下德不失德",
+    "edit_distance": 0,
+    "operations": [],
+    "operations_dp": [],
+    "operations_llm": [],
+    "edit_distance_llm": 0
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 2,
+    "original_text_version": "fy",
+    "original_text": "下德不失德",
+    "modified_text_version": "hs",
+    "modified_text": "下德不失德",
+    "edit_distance": 0,
+    "operations": [],
+    "operations_dp": [],
+    "operations_llm": [],
+    "edit_distance_llm": 0
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 2,
+    "original_text_version": "fy",
+    "original_text": "下德不失德",
+    "modified_text_version": "wb",
+    "modified_text": "下德不失德",
+    "edit_distance": 0,
+    "operations": [],
+    "operations_dp": [],
+    "operations_llm": [],
+    "edit_distance_llm": 0
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 2,
+    "original_text_version": "fy",
+    "original_text": "下德不失德",
+    "modified_text_version": "yz",
+    "modified_text": "下德不失德",
+    "edit_distance": 0,
+    "operations": [],
+    "operations_dp": [],
+    "operations_llm": [],
+    "edit_distance_llm": 0
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 2,
+    "original_text_version": "hj",
+    "original_text": "下德不失德",
+    "modified_text_version": "hs",
+    "modified_text": "下德不失德",
+    "edit_distance": 0,
+    "operations": [],
+    "operations_dp": [],
+    "operations_llm": [],
+    "edit_distance_llm": 0
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 2,
+    "original_text_version": "hj",
+    "original_text": "下德不失德",
+    "modified_text_version": "wb",
+    "modified_text": "下德不失德",
+    "edit_distance": 0,
+    "operations": [],
+    "operations_dp": [],
+    "operations_llm": [],
+    "edit_distance_llm": 0
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 2,
+    "original_text_version": "hj",
+    "original_text": "下德不失德",
+    "modified_text_version": "yz",
+    "modified_text": "下德不失德",
+    "edit_distance": 0,
+    "operations": [],
+    "operations_dp": [],
+    "operations_llm": [],
+    "edit_distance_llm": 0
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 2,
+    "original_text_version": "hs",
+    "original_text": "下德不失德",
+    "modified_text_version": "wb",
+    "modified_text": "下德不失德",
+    "edit_distance": 0,
+    "operations": [],
+    "operations_dp": [],
+    "operations_llm": [],
+    "edit_distance_llm": 0
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 2,
+    "original_text_version": "hs",
+    "original_text": "下德不失德",
+    "modified_text_version": "yz",
+    "modified_text": "下德不失德",
+    "edit_distance": 0,
+    "operations": [],
+    "operations_dp": [],
+    "operations_llm": [],
+    "edit_distance_llm": 0
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 2,
+    "original_text_version": "wb",
+    "original_text": "下德不失德",
+    "modified_text_version": "yz",
+    "modified_text": "下德不失德",
+    "edit_distance": 0,
+    "operations": [],
+    "operations_dp": [],
+    "operations_llm": [],
+    "edit_distance_llm": 0
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 3,
+    "original_text_version": "ba",
+    "original_text": "□□□德",
+    "modified_text_version": "fy",
+    "modified_text": "是以無德",
+    "edit_distance": 3,
+    "operations": [
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "是",
+        "position": 0
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "以",
+        "position": 1
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "無",
+        "position": 2
+      }
+    ],
+    "operations_dp": [
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "是",
+        "position": 0
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "以",
+        "position": 1
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "無",
+        "position": 2
+      }
+    ],
+    "operations_llm": [
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "是",
+        "position": 0
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "以",
+        "position": 1
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "無",
+        "position": 2
+      }
+    ],
+    "edit_distance_llm": 3
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 3,
+    "original_text_version": "ba",
+    "original_text": "□□□德",
+    "modified_text_version": "hj",
+    "modified_text": "是以無德",
+    "edit_distance": 3,
+    "operations": [
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "是",
+        "position": 0
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "以",
+        "position": 1
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "無",
+        "position": 2
+      }
+    ],
+    "operations_dp": [
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "是",
+        "position": 0
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "以",
+        "position": 1
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "無",
+        "position": 2
+      }
+    ],
+    "operations_llm": [
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "是",
+        "position": 0
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "以",
+        "position": 1
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "無",
+        "position": 2
+      }
+    ],
+    "edit_distance_llm": 3
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 3,
+    "original_text_version": "ba",
+    "original_text": "□□□德",
+    "modified_text_version": "hs",
+    "modified_text": "是以無德",
+    "edit_distance": 3,
+    "operations": [
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "是",
+        "position": 0
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "以",
+        "position": 1
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "無",
+        "position": 2
+      }
+    ],
+    "operations_dp": [
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "是",
+        "position": 0
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "以",
+        "position": 1
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "無",
+        "position": 2
+      }
+    ],
+    "operations_llm": [
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "是",
+        "position": 0
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "以",
+        "position": 1
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "無",
+        "position": 2
+      }
+    ],
+    "edit_distance_llm": 3
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 3,
+    "original_text_version": "ba",
+    "original_text": "□□□德",
+    "modified_text_version": "wb",
+    "modified_text": "是以無德",
+    "edit_distance": 3,
+    "operations": [
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "是",
+        "position": 0
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "以",
+        "position": 1
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "無",
+        "position": 2
+      }
+    ],
+    "operations_dp": [
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "是",
+        "position": 0
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "以",
+        "position": 1
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "無",
+        "position": 2
+      }
+    ],
+    "operations_llm": [
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "是",
+        "position": 0
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "以",
+        "position": 1
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "無",
+        "position": 2
+      }
+    ],
+    "edit_distance_llm": 3
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 3,
+    "original_text_version": "ba",
+    "original_text": "□□□德",
+    "modified_text_version": "yz",
+    "modified_text": "是以無德",
+    "edit_distance": 3,
+    "operations": [
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "是",
+        "position": 0
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "以",
+        "position": 1
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "無",
+        "position": 2
+      }
+    ],
+    "operations_dp": [
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "是",
+        "position": 0
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "以",
+        "position": 1
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "無",
+        "position": 2
+      }
+    ],
+    "operations_llm": [
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "是",
+        "position": 0
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "以",
+        "position": 1
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "無",
+        "position": 2
+      }
+    ],
+    "edit_distance_llm": 3
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 3,
+    "original_text_version": "bb",
+    "original_text": "是以无德",
+    "modified_text_version": "fy",
+    "modified_text": "是以無德",
+    "edit_distance": 1,
+    "operations": [
+      {
+        "type": "replace",
+        "original_char": "无",
+        "target_char": "無",
+        "position": 2
+      }
+    ],
+    "operations_dp": [
+      {
+        "type": "replace",
+        "original_char": "无",
+        "target_char": "無",
+        "position": 2
+      }
+    ],
+    "operations_llm": [
+      {
+        "type": "replace",
+        "original_char": "无",
+        "target_char": "無",
+        "position": 2
+      }
+    ],
+    "edit_distance_llm": 1
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 3,
+    "original_text_version": "bb",
+    "original_text": "是以无德",
+    "modified_text_version": "hj",
+    "modified_text": "是以無德",
+    "edit_distance": 1,
+    "operations": [
+      {
+        "type": "replace",
+        "original_char": "无",
+        "target_char": "無",
+        "position": 2
+      }
+    ],
+    "operations_dp": [
+      {
+        "type": "replace",
+        "original_char": "无",
+        "target_char": "無",
+        "position": 2
+      }
+    ],
+    "operations_llm": [
+      {
+        "type": "replace",
+        "original_char": "无",
+        "target_char": "無",
+        "position": 2
+      }
+    ],
+    "edit_distance_llm": 1
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 3,
+    "original_text_version": "bb",
+    "original_text": "是以无德",
+    "modified_text_version": "hs",
+    "modified_text": "是以無德",
+    "edit_distance": 1,
+    "operations": [
+      {
+        "type": "replace",
+        "original_char": "无",
+        "target_char": "無",
+        "position": 2
+      }
+    ],
+    "operations_dp": [
+      {
+        "type": "replace",
+        "original_char": "无",
+        "target_char": "無",
+        "position": 2
+      }
+    ],
+    "operations_llm": [
+      {
+        "type": "replace",
+        "original_char": "无",
+        "target_char": "無",
+        "position": 2
+      }
+    ],
+    "edit_distance_llm": 1
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 3,
+    "original_text_version": "bb",
+    "original_text": "是以无德",
+    "modified_text_version": "wb",
+    "modified_text": "是以無德",
+    "edit_distance": 1,
+    "operations": [
+      {
+        "type": "replace",
+        "original_char": "无",
+        "target_char": "無",
+        "position": 2
+      }
+    ],
+    "operations_dp": [
+      {
+        "type": "replace",
+        "original_char": "无",
+        "target_char": "無",
+        "position": 2
+      }
+    ],
+    "operations_llm": [
+      {
+        "type": "replace",
+        "original_char": "无",
+        "target_char": "無",
+        "position": 2
+      }
+    ],
+    "edit_distance_llm": 1
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 3,
+    "original_text_version": "bb",
+    "original_text": "是以无德",
+    "modified_text_version": "yz",
+    "modified_text": "是以無德",
+    "edit_distance": 1,
+    "operations": [
+      {
+        "type": "replace",
+        "original_char": "无",
+        "target_char": "無",
+        "position": 2
+      }
+    ],
+    "operations_dp": [
+      {
+        "type": "replace",
+        "original_char": "无",
+        "target_char": "無",
+        "position": 2
+      }
+    ],
+    "operations_llm": [
+      {
+        "type": "replace",
+        "original_char": "无",
+        "target_char": "無",
+        "position": 2
+      }
+    ],
+    "edit_distance_llm": 1
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 3,
+    "original_text_version": "fy",
+    "original_text": "是以無德",
+    "modified_text_version": "hj",
+    "modified_text": "是以無德",
+    "edit_distance": 0,
+    "operations": [],
+    "operations_dp": [],
+    "operations_llm": [],
+    "edit_distance_llm": 0
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 3,
+    "original_text_version": "fy",
+    "original_text": "是以無德",
+    "modified_text_version": "hs",
+    "modified_text": "是以無德",
+    "edit_distance": 0,
+    "operations": [],
+    "operations_dp": [],
+    "operations_llm": [],
+    "edit_distance_llm": 0
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 3,
+    "original_text_version": "fy",
+    "original_text": "是以無德",
+    "modified_text_version": "wb",
+    "modified_text": "是以無德",
+    "edit_distance": 0,
+    "operations": [],
+    "operations_dp": [],
+    "operations_llm": [],
+    "edit_distance_llm": 0
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 3,
+    "original_text_version": "fy",
+    "original_text": "是以無德",
+    "modified_text_version": "yz",
+    "modified_text": "是以無德",
+    "edit_distance": 0,
+    "operations": [],
+    "operations_dp": [],
+    "operations_llm": [],
+    "edit_distance_llm": 0
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 3,
+    "original_text_version": "hj",
+    "original_text": "是以無德",
+    "modified_text_version": "hs",
+    "modified_text": "是以無德",
+    "edit_distance": 0,
+    "operations": [],
+    "operations_dp": [],
+    "operations_llm": [],
+    "edit_distance_llm": 0
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 3,
+    "original_text_version": "hj",
+    "original_text": "是以無德",
+    "modified_text_version": "wb",
+    "modified_text": "是以無德",
+    "edit_distance": 0,
+    "operations": [],
+    "operations_dp": [],
+    "operations_llm": [],
+    "edit_distance_llm": 0
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 3,
+    "original_text_version": "hj",
+    "original_text": "是以無德",
+    "modified_text_version": "yz",
+    "modified_text": "是以無德",
+    "edit_distance": 0,
+    "operations": [],
+    "operations_dp": [],
+    "operations_llm": [],
+    "edit_distance_llm": 0
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 3,
+    "original_text_version": "hs",
+    "original_text": "是以無德",
+    "modified_text_version": "wb",
+    "modified_text": "是以無德",
+    "edit_distance": 0,
+    "operations": [],
+    "operations_dp": [],
+    "operations_llm": [],
+    "edit_distance_llm": 0
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 3,
+    "original_text_version": "hs",
+    "original_text": "是以無德",
+    "modified_text_version": "yz",
+    "modified_text": "是以無德",
+    "edit_distance": 0,
+    "operations": [],
+    "operations_dp": [],
+    "operations_llm": [],
+    "edit_distance_llm": 0
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 3,
+    "original_text_version": "wb",
+    "original_text": "是以無德",
+    "modified_text_version": "yz",
+    "modified_text": "是以無德",
+    "edit_distance": 0,
+    "operations": [],
+    "operations_dp": [],
+    "operations_llm": [],
+    "edit_distance_llm": 0
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 4,
+    "original_text_version": "ba",
+    "original_text": "上德无□□无以爲也",
+    "modified_text_version": "bb",
+    "modified_text": "上德无爲而无以爲也",
+    "edit_distance": 2,
+    "operations": [
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "爲",
+        "position": 3
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "而",
+        "position": 4
+      }
+    ],
+    "operations_dp": [
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "爲",
+        "position": 3
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "而",
+        "position": 4
+      }
+    ],
+    "operations_llm": [
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "爲",
+        "position": 3
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "而",
+        "position": 4
+      }
+    ],
+    "edit_distance_llm": 2
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 4,
+    "original_text_version": "ba",
+    "original_text": "上德无□□无以爲也",
+    "modified_text_version": "fy",
+    "modified_text": "上德無爲而無不爲",
+    "edit_distance": 6,
+    "operations": [
+      {
+        "type": "replace",
+        "original_char": "无",
+        "target_char": "無",
+        "position": 2
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "爲",
+        "position": 3
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "而",
+        "position": 4
+      },
+      {
+        "type": "replace",
+        "original_char": "无",
+        "target_char": "無",
+        "position": 5
+      },
+      {
+        "type": "replace",
+        "original_char": "以",
+        "target_char": "不",
+        "position": 6
+      },
+      {
+        "type": "delete",
+        "char": "也",
+        "position": 8
+      }
+    ],
+    "operations_dp": [
+      {
+        "type": "replace",
+        "original_char": "无",
+        "target_char": "無",
+        "position": 2
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "爲",
+        "position": 3
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "而",
+        "position": 4
+      },
+      {
+        "type": "replace",
+        "original_char": "无",
+        "target_char": "無",
+        "position": 5
+      },
+      {
+        "type": "replace",
+        "original_char": "以",
+        "target_char": "不",
+        "position": 6
+      },
+      {
+        "type": "delete",
+        "char": "也",
+        "position": 8
+      }
+    ],
+    "operations_llm": [
+      {
+        "type": "replace",
+        "original_char": "无",
+        "target_char": "無",
+        "position": 2
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "爲",
+        "position": 3
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "而",
+        "position": 4
+      },
+      {
+        "type": "replace",
+        "original_char": "无",
+        "target_char": "無",
+        "position": 5
+      },
+      {
+        "type": "replace",
+        "original_char": "以",
+        "target_char": "不",
+        "position": 6
+      },
+      {
+        "type": "delete",
+        "char": "也",
+        "position": 8
+      }
+    ],
+    "edit_distance_llm": 6
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 4,
+    "original_text_version": "ba",
+    "original_text": "上德无□□无以爲也",
+    "modified_text_version": "hj",
+    "modified_text": "上德無爲而無以爲",
+    "edit_distance": 5,
+    "operations": [
+      {
+        "type": "replace",
+        "original_char": "无",
+        "target_char": "無",
+        "position": 2
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "爲",
+        "position": 3
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "而",
+        "position": 4
+      },
+      {
+        "type": "replace",
+        "original_char": "无",
+        "target_char": "無",
+        "position": 5
+      },
+      {
+        "type": "delete",
+        "char": "也",
+        "position": 8
+      }
+    ],
+    "operations_dp": [
+      {
+        "type": "replace",
+        "original_char": "无",
+        "target_char": "無",
+        "position": 2
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "爲",
+        "position": 3
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "而",
+        "position": 4
+      },
+      {
+        "type": "replace",
+        "original_char": "无",
+        "target_char": "無",
+        "position": 5
+      },
+      {
+        "type": "delete",
+        "char": "也",
+        "position": 8
+      }
+    ],
+    "operations_llm": [
+      {
+        "type": "replace",
+        "original_char": "无",
+        "target_char": "無",
+        "position": 2
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "爲",
+        "position": 3
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "而",
+        "position": 4
+      },
+      {
+        "type": "replace",
+        "original_char": "无",
+        "target_char": "無",
+        "position": 5
+      },
+      {
+        "type": "delete",
+        "char": "也",
+        "position": 8
+      }
+    ],
+    "edit_distance_llm": 5
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 4,
+    "original_text_version": "ba",
+    "original_text": "上德无□□无以爲也",
+    "modified_text_version": "hs",
+    "modified_text": "上德無爲而無以爲",
+    "edit_distance": 5,
+    "operations": [
+      {
+        "type": "replace",
+        "original_char": "无",
+        "target_char": "無",
+        "position": 2
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "爲",
+        "position": 3
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "而",
+        "position": 4
+      },
+      {
+        "type": "replace",
+        "original_char": "无",
+        "target_char": "無",
+        "position": 5
+      },
+      {
+        "type": "delete",
+        "char": "也",
+        "position": 8
+      }
+    ],
+    "operations_dp": [
+      {
+        "type": "replace",
+        "original_char": "无",
+        "target_char": "無",
+        "position": 2
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "爲",
+        "position": 3
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "而",
+        "position": 4
+      },
+      {
+        "type": "replace",
+        "original_char": "无",
+        "target_char": "無",
+        "position": 5
+      },
+      {
+        "type": "delete",
+        "char": "也",
+        "position": 8
+      }
+    ],
+    "operations_llm": [
+      {
+        "type": "replace",
+        "original_char": "无",
+        "target_char": "無",
+        "position": 2
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "爲",
+        "position": 3
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "而",
+        "position": 4
+      },
+      {
+        "type": "replace",
+        "original_char": "无",
+        "target_char": "無",
+        "position": 5
+      },
+      {
+        "type": "delete",
+        "char": "也",
+        "position": 8
+      }
+    ],
+    "edit_distance_llm": 5
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 4,
+    "original_text_version": "ba",
+    "original_text": "上德无□□无以爲也",
+    "modified_text_version": "wb",
+    "modified_text": "上德無爲而無以爲",
+    "edit_distance": 5,
+    "operations": [
+      {
+        "type": "replace",
+        "original_char": "无",
+        "target_char": "無",
+        "position": 2
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "爲",
+        "position": 3
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "而",
+        "position": 4
+      },
+      {
+        "type": "replace",
+        "original_char": "无",
+        "target_char": "無",
+        "position": 5
+      },
+      {
+        "type": "delete",
+        "char": "也",
+        "position": 8
+      }
+    ],
+    "operations_dp": [
+      {
+        "type": "replace",
+        "original_char": "无",
+        "target_char": "無",
+        "position": 2
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "爲",
+        "position": 3
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "而",
+        "position": 4
+      },
+      {
+        "type": "replace",
+        "original_char": "无",
+        "target_char": "無",
+        "position": 5
+      },
+      {
+        "type": "delete",
+        "char": "也",
+        "position": 8
+      }
+    ],
+    "operations_llm": [
+      {
+        "type": "replace",
+        "original_char": "无",
+        "target_char": "無",
+        "position": 2
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "爲",
+        "position": 3
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "而",
+        "position": 4
+      },
+      {
+        "type": "replace",
+        "original_char": "无",
+        "target_char": "無",
+        "position": 5
+      },
+      {
+        "type": "delete",
+        "char": "也",
+        "position": 8
+      }
+    ],
+    "edit_distance_llm": 5
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 4,
+    "original_text_version": "ba",
+    "original_text": "上德无□□无以爲也",
+    "modified_text_version": "yz",
+    "modified_text": "上德無爲而無不爲",
+    "edit_distance": 6,
+    "operations": [
+      {
+        "type": "replace",
+        "original_char": "无",
+        "target_char": "無",
+        "position": 2
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "爲",
+        "position": 3
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "而",
+        "position": 4
+      },
+      {
+        "type": "replace",
+        "original_char": "无",
+        "target_char": "無",
+        "position": 5
+      },
+      {
+        "type": "replace",
+        "original_char": "以",
+        "target_char": "不",
+        "position": 6
+      },
+      {
+        "type": "delete",
+        "char": "也",
+        "position": 8
+      }
+    ],
+    "operations_dp": [
+      {
+        "type": "replace",
+        "original_char": "无",
+        "target_char": "無",
+        "position": 2
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "爲",
+        "position": 3
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "而",
+        "position": 4
+      },
+      {
+        "type": "replace",
+        "original_char": "无",
+        "target_char": "無",
+        "position": 5
+      },
+      {
+        "type": "replace",
+        "original_char": "以",
+        "target_char": "不",
+        "position": 6
+      },
+      {
+        "type": "delete",
+        "char": "也",
+        "position": 8
+      }
+    ],
+    "operations_llm": [
+      {
+        "type": "replace",
+        "original_char": "无",
+        "target_char": "無",
+        "position": 2
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "爲",
+        "position": 3
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "而",
+        "position": 4
+      },
+      {
+        "type": "replace",
+        "original_char": "无",
+        "target_char": "無",
+        "position": 5
+      },
+      {
+        "type": "replace",
+        "original_char": "以",
+        "target_char": "不",
+        "position": 6
+      },
+      {
+        "type": "delete",
+        "char": "也",
+        "position": 8
+      }
+    ],
+    "edit_distance_llm": 6
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 4,
+    "original_text_version": "bb",
+    "original_text": "上德无爲而无以爲也",
+    "modified_text_version": "fy",
+    "modified_text": "上德無爲而無不爲",
+    "edit_distance": 4,
+    "operations": [
+      {
+        "type": "replace",
+        "original_char": "无",
+        "target_char": "無",
+        "position": 2
+      },
+      {
+        "type": "replace",
+        "original_char": "无",
+        "target_char": "無",
+        "position": 5
+      },
+      {
+        "type": "replace",
+        "original_char": "以",
+        "target_char": "不",
+        "position": 6
+      },
+      {
+        "type": "delete",
+        "char": "也",
+        "position": 8
+      }
+    ],
+    "operations_dp": [
+      {
+        "type": "replace",
+        "original_char": "无",
+        "target_char": "無",
+        "position": 2
+      },
+      {
+        "type": "replace",
+        "original_char": "无",
+        "target_char": "無",
+        "position": 5
+      },
+      {
+        "type": "replace",
+        "original_char": "以",
+        "target_char": "不",
+        "position": 6
+      },
+      {
+        "type": "delete",
+        "char": "也",
+        "position": 8
+      }
+    ],
+    "operations_llm": [
+      {
+        "type": "replace",
+        "original_char": "无",
+        "target_char": "無",
+        "position": 2
+      },
+      {
+        "type": "replace",
+        "original_char": "无",
+        "target_char": "無",
+        "position": 5
+      },
+      {
+        "type": "replace",
+        "original_char": "以",
+        "target_char": "不",
+        "position": 6
+      },
+      {
+        "type": "delete",
+        "char": "也",
+        "position": 8
+      }
+    ],
+    "edit_distance_llm": 4
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 4,
+    "original_text_version": "bb",
+    "original_text": "上德无爲而无以爲也",
+    "modified_text_version": "hj",
+    "modified_text": "上德無爲而無以爲",
+    "edit_distance": 3,
+    "operations": [
+      {
+        "type": "replace",
+        "original_char": "无",
+        "target_char": "無",
+        "position": 2
+      },
+      {
+        "type": "replace",
+        "original_char": "无",
+        "target_char": "無",
+        "position": 5
+      },
+      {
+        "type": "delete",
+        "char": "也",
+        "position": 8
+      }
+    ],
+    "operations_dp": [
+      {
+        "type": "replace",
+        "original_char": "无",
+        "target_char": "無",
+        "position": 2
+      },
+      {
+        "type": "replace",
+        "original_char": "无",
+        "target_char": "無",
+        "position": 5
+      },
+      {
+        "type": "delete",
+        "char": "也",
+        "position": 8
+      }
+    ],
+    "operations_llm": [
+      {
+        "type": "replace",
+        "original_char": "无",
+        "target_char": "無",
+        "position": 2
+      },
+      {
+        "type": "replace",
+        "original_char": "无",
+        "target_char": "無",
+        "position": 5
+      },
+      {
+        "type": "delete",
+        "char": "也",
+        "position": 8
+      }
+    ],
+    "edit_distance_llm": 3
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 4,
+    "original_text_version": "bb",
+    "original_text": "上德无爲而无以爲也",
+    "modified_text_version": "hs",
+    "modified_text": "上德無爲而無以爲",
+    "edit_distance": 3,
+    "operations": [
+      {
+        "type": "replace",
+        "original_char": "无",
+        "target_char": "無",
+        "position": 2
+      },
+      {
+        "type": "replace",
+        "original_char": "无",
+        "target_char": "無",
+        "position": 5
+      },
+      {
+        "type": "delete",
+        "char": "也",
+        "position": 8
+      }
+    ],
+    "operations_dp": [
+      {
+        "type": "replace",
+        "original_char": "无",
+        "target_char": "無",
+        "position": 2
+      },
+      {
+        "type": "replace",
+        "original_char": "无",
+        "target_char": "無",
+        "position": 5
+      },
+      {
+        "type": "delete",
+        "char": "也",
+        "position": 8
+      }
+    ],
+    "operations_llm": [
+      {
+        "type": "replace",
+        "original_char": "无",
+        "target_char": "無",
+        "position": 2
+      },
+      {
+        "type": "replace",
+        "original_char": "无",
+        "target_char": "無",
+        "position": 5
+      },
+      {
+        "type": "delete",
+        "char": "也",
+        "position": 8
+      }
+    ],
+    "edit_distance_llm": 3
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 4,
+    "original_text_version": "bb",
+    "original_text": "上德无爲而无以爲也",
+    "modified_text_version": "wb",
+    "modified_text": "上德無爲而無以爲",
+    "edit_distance": 3,
+    "operations": [
+      {
+        "type": "replace",
+        "original_char": "无",
+        "target_char": "無",
+        "position": 2
+      },
+      {
+        "type": "replace",
+        "original_char": "无",
+        "target_char": "無",
+        "position": 5
+      },
+      {
+        "type": "delete",
+        "char": "也",
+        "position": 8
+      }
+    ],
+    "operations_dp": [
+      {
+        "type": "replace",
+        "original_char": "无",
+        "target_char": "無",
+        "position": 2
+      },
+      {
+        "type": "replace",
+        "original_char": "无",
+        "target_char": "無",
+        "position": 5
+      },
+      {
+        "type": "delete",
+        "char": "也",
+        "position": 8
+      }
+    ],
+    "operations_llm": [
+      {
+        "type": "replace",
+        "original_char": "无",
+        "target_char": "無",
+        "position": 2
+      },
+      {
+        "type": "replace",
+        "original_char": "无",
+        "target_char": "無",
+        "position": 5
+      },
+      {
+        "type": "delete",
+        "char": "也",
+        "position": 8
+      }
+    ],
+    "edit_distance_llm": 3
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 4,
+    "original_text_version": "bb",
+    "original_text": "上德无爲而无以爲也",
+    "modified_text_version": "yz",
+    "modified_text": "上德無爲而無不爲",
+    "edit_distance": 4,
+    "operations": [
+      {
+        "type": "replace",
+        "original_char": "无",
+        "target_char": "無",
+        "position": 2
+      },
+      {
+        "type": "replace",
+        "original_char": "无",
+        "target_char": "無",
+        "position": 5
+      },
+      {
+        "type": "replace",
+        "original_char": "以",
+        "target_char": "不",
+        "position": 6
+      },
+      {
+        "type": "delete",
+        "char": "也",
+        "position": 8
+      }
+    ],
+    "operations_dp": [
+      {
+        "type": "replace",
+        "original_char": "无",
+        "target_char": "無",
+        "position": 2
+      },
+      {
+        "type": "replace",
+        "original_char": "无",
+        "target_char": "無",
+        "position": 5
+      },
+      {
+        "type": "replace",
+        "original_char": "以",
+        "target_char": "不",
+        "position": 6
+      },
+      {
+        "type": "delete",
+        "char": "也",
+        "position": 8
+      }
+    ],
+    "operations_llm": [
+      {
+        "type": "replace",
+        "original_char": "无",
+        "target_char": "無",
+        "position": 2
+      },
+      {
+        "type": "replace",
+        "original_char": "无",
+        "target_char": "無",
+        "position": 5
+      },
+      {
+        "type": "replace",
+        "original_char": "以",
+        "target_char": "不",
+        "position": 6
+      },
+      {
+        "type": "delete",
+        "char": "也",
+        "position": 8
+      }
+    ],
+    "edit_distance_llm": 4
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 4,
+    "original_text_version": "fy",
+    "original_text": "上德無爲而無不爲",
+    "modified_text_version": "hj",
+    "modified_text": "上德無爲而無以爲",
+    "edit_distance": 1,
+    "operations": [
+      {
+        "type": "replace",
+        "original_char": "不",
+        "target_char": "以",
+        "position": 6
+      }
+    ],
+    "operations_dp": [
+      {
+        "type": "replace",
+        "original_char": "不",
+        "target_char": "以",
+        "position": 6
+      }
+    ],
+    "operations_llm": [
+      {
+        "type": "replace",
+        "original_char": "不",
+        "target_char": "以",
+        "position": 6
+      }
+    ],
+    "edit_distance_llm": 1
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 4,
+    "original_text_version": "fy",
+    "original_text": "上德無爲而無不爲",
+    "modified_text_version": "hs",
+    "modified_text": "上德無爲而無以爲",
+    "edit_distance": 1,
+    "operations": [
+      {
+        "type": "replace",
+        "original_char": "不",
+        "target_char": "以",
+        "position": 6
+      }
+    ],
+    "operations_dp": [
+      {
+        "type": "replace",
+        "original_char": "不",
+        "target_char": "以",
+        "position": 6
+      }
+    ],
+    "operations_llm": [
+      {
+        "type": "replace",
+        "original_char": "不",
+        "target_char": "以",
+        "position": 6
+      }
+    ],
+    "edit_distance_llm": 1
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 4,
+    "original_text_version": "fy",
+    "original_text": "上德無爲而無不爲",
+    "modified_text_version": "wb",
+    "modified_text": "上德無爲而無以爲",
+    "edit_distance": 1,
+    "operations": [
+      {
+        "type": "replace",
+        "original_char": "不",
+        "target_char": "以",
+        "position": 6
+      }
+    ],
+    "operations_dp": [
+      {
+        "type": "replace",
+        "original_char": "不",
+        "target_char": "以",
+        "position": 6
+      }
+    ],
+    "operations_llm": [
+      {
+        "type": "replace",
+        "original_char": "不",
+        "target_char": "以",
+        "position": 6
+      }
+    ],
+    "edit_distance_llm": 1
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 4,
+    "original_text_version": "fy",
+    "original_text": "上德無爲而無不爲",
+    "modified_text_version": "yz",
+    "modified_text": "上德無爲而無不爲",
+    "edit_distance": 0,
+    "operations": [],
+    "operations_dp": [],
+    "operations_llm": [],
+    "edit_distance_llm": 0
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 4,
+    "original_text_version": "hj",
+    "original_text": "上德無爲而無以爲",
+    "modified_text_version": "hs",
+    "modified_text": "上德無爲而無以爲",
+    "edit_distance": 0,
+    "operations": [],
+    "operations_dp": [],
+    "operations_llm": [],
+    "edit_distance_llm": 0
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 4,
+    "original_text_version": "hj",
+    "original_text": "上德無爲而無以爲",
+    "modified_text_version": "wb",
+    "modified_text": "上德無爲而無以爲",
+    "edit_distance": 0,
+    "operations": [],
+    "operations_dp": [],
+    "operations_llm": [],
+    "edit_distance_llm": 0
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 4,
+    "original_text_version": "hj",
+    "original_text": "上德無爲而無以爲",
+    "modified_text_version": "yz",
+    "modified_text": "上德無爲而無不爲",
+    "edit_distance": 1,
+    "operations": [
+      {
+        "type": "replace",
+        "original_char": "以",
+        "target_char": "不",
+        "position": 6
+      }
+    ],
+    "operations_dp": [
+      {
+        "type": "replace",
+        "original_char": "以",
+        "target_char": "不",
+        "position": 6
+      }
+    ],
+    "operations_llm": [
+      {
+        "type": "replace",
+        "original_char": "以",
+        "target_char": "不",
+        "position": 6
+      }
+    ],
+    "edit_distance_llm": 1
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 4,
+    "original_text_version": "hs",
+    "original_text": "上德無爲而無以爲",
+    "modified_text_version": "wb",
+    "modified_text": "上德無爲而無以爲",
+    "edit_distance": 0,
+    "operations": [],
+    "operations_dp": [],
+    "operations_llm": [],
+    "edit_distance_llm": 0
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 4,
+    "original_text_version": "hs",
+    "original_text": "上德無爲而無以爲",
+    "modified_text_version": "yz",
+    "modified_text": "上德無爲而無不爲",
+    "edit_distance": 1,
+    "operations": [
+      {
+        "type": "replace",
+        "original_char": "以",
+        "target_char": "不",
+        "position": 6
+      }
+    ],
+    "operations_dp": [
+      {
+        "type": "replace",
+        "original_char": "以",
+        "target_char": "不",
+        "position": 6
+      }
+    ],
+    "operations_llm": [
+      {
+        "type": "replace",
+        "original_char": "以",
+        "target_char": "不",
+        "position": 6
+      }
+    ],
+    "edit_distance_llm": 1
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 4,
+    "original_text_version": "wb",
+    "original_text": "上德無爲而無以爲",
+    "modified_text_version": "yz",
+    "modified_text": "上德無爲而無不爲",
+    "edit_distance": 1,
+    "operations": [
+      {
+        "type": "replace",
+        "original_char": "以",
+        "target_char": "不",
+        "position": 6
+      }
+    ],
+    "operations_dp": [
+      {
+        "type": "replace",
+        "original_char": "以",
+        "target_char": "不",
+        "position": 6
+      }
+    ],
+    "operations_llm": [
+      {
+        "type": "replace",
+        "original_char": "以",
+        "target_char": "不",
+        "position": 6
+      }
+    ],
+    "edit_distance_llm": 1
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 5,
+    "original_text_version": "fy",
+    "original_text": "下德爲之而無以爲",
+    "modified_text_version": "hj",
+    "modified_text": "下德□之而無以爲",
+    "edit_distance": 1,
+    "operations": [
+      {
+        "type": "replace",
+        "original_char": "爲",
+        "target_char": "□",
+        "position": 2
+      }
+    ],
+    "operations_dp": [
+      {
+        "type": "replace",
+        "original_char": "爲",
+        "target_char": "□",
+        "position": 2
+      }
+    ],
+    "operations_llm": [
+      {
+        "type": "replace",
+        "original_char": "爲",
+        "target_char": "□",
+        "position": 2
+      }
+    ],
+    "edit_distance_llm": 1
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 5,
+    "original_text_version": "fy",
+    "original_text": "下德爲之而無以爲",
+    "modified_text_version": "hs",
+    "modified_text": "下德爲之而有以爲",
+    "edit_distance": 1,
+    "operations": [
+      {
+        "type": "replace",
+        "original_char": "無",
+        "target_char": "有",
+        "position": 5
+      }
+    ],
+    "operations_dp": [
+      {
+        "type": "replace",
+        "original_char": "無",
+        "target_char": "有",
+        "position": 5
+      }
+    ],
+    "operations_llm": [
+      {
+        "type": "replace",
+        "original_char": "無",
+        "target_char": "有",
+        "position": 5
+      }
+    ],
+    "edit_distance_llm": 1
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 5,
+    "original_text_version": "fy",
+    "original_text": "下德爲之而無以爲",
+    "modified_text_version": "wb",
+    "modified_text": "下德爲之而有以爲",
+    "edit_distance": 1,
+    "operations": [
+      {
+        "type": "replace",
+        "original_char": "無",
+        "target_char": "有",
+        "position": 5
+      }
+    ],
+    "operations_dp": [
+      {
+        "type": "replace",
+        "original_char": "無",
+        "target_char": "有",
+        "position": 5
+      }
+    ],
+    "operations_llm": [
+      {
+        "type": "replace",
+        "original_char": "無",
+        "target_char": "有",
+        "position": 5
+      }
+    ],
+    "edit_distance_llm": 1
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 5,
+    "original_text_version": "fy",
+    "original_text": "下德爲之而無以爲",
+    "modified_text_version": "yz",
+    "modified_text": "下德爲之而有以爲",
+    "edit_distance": 1,
+    "operations": [
+      {
+        "type": "replace",
+        "original_char": "無",
+        "target_char": "有",
+        "position": 5
+      }
+    ],
+    "operations_dp": [
+      {
+        "type": "replace",
+        "original_char": "無",
+        "target_char": "有",
+        "position": 5
+      }
+    ],
+    "operations_llm": [
+      {
+        "type": "replace",
+        "original_char": "無",
+        "target_char": "有",
+        "position": 5
+      }
+    ],
+    "edit_distance_llm": 1
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 5,
+    "original_text_version": "hj",
+    "original_text": "下德□之而無以爲",
+    "modified_text_version": "hs",
+    "modified_text": "下德爲之而有以爲",
+    "edit_distance": 2,
+    "operations": [
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "爲",
+        "position": 2
+      },
+      {
+        "type": "replace",
+        "original_char": "無",
+        "target_char": "有",
+        "position": 5
+      }
+    ],
+    "operations_dp": [
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "爲",
+        "position": 2
+      },
+      {
+        "type": "replace",
+        "original_char": "無",
+        "target_char": "有",
+        "position": 5
+      }
+    ],
+    "operations_llm": [
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "爲",
+        "position": 2
+      },
+      {
+        "type": "replace",
+        "original_char": "無",
+        "target_char": "有",
+        "position": 5
+      }
+    ],
+    "edit_distance_llm": 2
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 5,
+    "original_text_version": "hj",
+    "original_text": "下德□之而無以爲",
+    "modified_text_version": "wb",
+    "modified_text": "下德爲之而有以爲",
+    "edit_distance": 2,
+    "operations": [
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "爲",
+        "position": 2
+      },
+      {
+        "type": "replace",
+        "original_char": "無",
+        "target_char": "有",
+        "position": 5
+      }
+    ],
+    "operations_dp": [
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "爲",
+        "position": 2
+      },
+      {
+        "type": "replace",
+        "original_char": "無",
+        "target_char": "有",
+        "position": 5
+      }
+    ],
+    "operations_llm": [
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "爲",
+        "position": 2
+      },
+      {
+        "type": "replace",
+        "original_char": "無",
+        "target_char": "有",
+        "position": 5
+      }
+    ],
+    "edit_distance_llm": 2
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 5,
+    "original_text_version": "hj",
+    "original_text": "下德□之而無以爲",
+    "modified_text_version": "yz",
+    "modified_text": "下德爲之而有以爲",
+    "edit_distance": 2,
+    "operations": [
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "爲",
+        "position": 2
+      },
+      {
+        "type": "replace",
+        "original_char": "無",
+        "target_char": "有",
+        "position": 5
+      }
+    ],
+    "operations_dp": [
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "爲",
+        "position": 2
+      },
+      {
+        "type": "replace",
+        "original_char": "無",
+        "target_char": "有",
+        "position": 5
+      }
+    ],
+    "operations_llm": [
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "爲",
+        "position": 2
+      },
+      {
+        "type": "replace",
+        "original_char": "無",
+        "target_char": "有",
+        "position": 5
+      }
+    ],
+    "edit_distance_llm": 2
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 5,
+    "original_text_version": "hs",
+    "original_text": "下德爲之而有以爲",
+    "modified_text_version": "wb",
+    "modified_text": "下德爲之而有以爲",
+    "edit_distance": 0,
+    "operations": [],
+    "operations_dp": [],
+    "operations_llm": [],
+    "edit_distance_llm": 0
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 5,
+    "original_text_version": "hs",
+    "original_text": "下德爲之而有以爲",
+    "modified_text_version": "yz",
+    "modified_text": "下德爲之而有以爲",
+    "edit_distance": 0,
+    "operations": [],
+    "operations_dp": [],
+    "operations_llm": [],
+    "edit_distance_llm": 0
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 5,
+    "original_text_version": "wb",
+    "original_text": "下德爲之而有以爲",
+    "modified_text_version": "yz",
+    "modified_text": "下德爲之而有以爲",
+    "edit_distance": 0,
+    "operations": [],
+    "operations_dp": [],
+    "operations_llm": [],
+    "edit_distance_llm": 0
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 6,
+    "original_text_version": "ba",
+    "original_text": "上仁爲之□□以爲也",
+    "modified_text_version": "bb",
+    "modified_text": "上仁爲之而无以爲也",
+    "edit_distance": 2,
+    "operations": [
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "而",
+        "position": 4
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "无",
+        "position": 5
+      }
+    ],
+    "operations_dp": [
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "而",
+        "position": 4
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "无",
+        "position": 5
+      }
+    ],
+    "operations_llm": [
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "而",
+        "position": 4
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "无",
+        "position": 5
+      }
+    ],
+    "edit_distance_llm": 2
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 6,
+    "original_text_version": "ba",
+    "original_text": "上仁爲之□□以爲也",
+    "modified_text_version": "fy",
+    "modified_text": "上仁爲之而無以爲",
+    "edit_distance": 3,
+    "operations": [
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "而",
+        "position": 4
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "無",
+        "position": 5
+      },
+      {
+        "type": "delete",
+        "char": "也",
+        "position": 8
+      }
+    ],
+    "operations_dp": [
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "而",
+        "position": 4
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "無",
+        "position": 5
+      },
+      {
+        "type": "delete",
+        "char": "也",
+        "position": 8
+      }
+    ],
+    "operations_llm": [
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "而",
+        "position": 4
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "無",
+        "position": 5
+      },
+      {
+        "type": "delete",
+        "char": "也",
+        "position": 8
+      }
+    ],
+    "edit_distance_llm": 3
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 6,
+    "original_text_version": "ba",
+    "original_text": "上仁爲之□□以爲也",
+    "modified_text_version": "hj",
+    "modified_text": "上仁爲之而無以爲",
+    "edit_distance": 3,
+    "operations": [
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "而",
+        "position": 4
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "無",
+        "position": 5
+      },
+      {
+        "type": "delete",
+        "char": "也",
+        "position": 8
+      }
+    ],
+    "operations_dp": [
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "而",
+        "position": 4
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "無",
+        "position": 5
+      },
+      {
+        "type": "delete",
+        "char": "也",
+        "position": 8
+      }
+    ],
+    "operations_llm": [
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "而",
+        "position": 4
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "無",
+        "position": 5
+      },
+      {
+        "type": "delete",
+        "char": "也",
+        "position": 8
+      }
+    ],
+    "edit_distance_llm": 3
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 6,
+    "original_text_version": "ba",
+    "original_text": "上仁爲之□□以爲也",
+    "modified_text_version": "hs",
+    "modified_text": "上仁爲之而無以爲",
+    "edit_distance": 3,
+    "operations": [
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "而",
+        "position": 4
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "無",
+        "position": 5
+      },
+      {
+        "type": "delete",
+        "char": "也",
+        "position": 8
+      }
+    ],
+    "operations_dp": [
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "而",
+        "position": 4
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "無",
+        "position": 5
+      },
+      {
+        "type": "delete",
+        "char": "也",
+        "position": 8
+      }
+    ],
+    "operations_llm": [
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "而",
+        "position": 4
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "無",
+        "position": 5
+      },
+      {
+        "type": "delete",
+        "char": "也",
+        "position": 8
+      }
+    ],
+    "edit_distance_llm": 3
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 6,
+    "original_text_version": "ba",
+    "original_text": "上仁爲之□□以爲也",
+    "modified_text_version": "wb",
+    "modified_text": "上仁爲之而無以爲",
+    "edit_distance": 3,
+    "operations": [
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "而",
+        "position": 4
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "無",
+        "position": 5
+      },
+      {
+        "type": "delete",
+        "char": "也",
+        "position": 8
+      }
+    ],
+    "operations_dp": [
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "而",
+        "position": 4
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "無",
+        "position": 5
+      },
+      {
+        "type": "delete",
+        "char": "也",
+        "position": 8
+      }
+    ],
+    "operations_llm": [
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "而",
+        "position": 4
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "無",
+        "position": 5
+      },
+      {
+        "type": "delete",
+        "char": "也",
+        "position": 8
+      }
+    ],
+    "edit_distance_llm": 3
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 6,
+    "original_text_version": "ba",
+    "original_text": "上仁爲之□□以爲也",
+    "modified_text_version": "yz",
+    "modified_text": "上仁爲之而無以爲",
+    "edit_distance": 3,
+    "operations": [
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "而",
+        "position": 4
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "無",
+        "position": 5
+      },
+      {
+        "type": "delete",
+        "char": "也",
+        "position": 8
+      }
+    ],
+    "operations_dp": [
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "而",
+        "position": 4
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "無",
+        "position": 5
+      },
+      {
+        "type": "delete",
+        "char": "也",
+        "position": 8
+      }
+    ],
+    "operations_llm": [
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "而",
+        "position": 4
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "無",
+        "position": 5
+      },
+      {
+        "type": "delete",
+        "char": "也",
+        "position": 8
+      }
+    ],
+    "edit_distance_llm": 3
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 6,
+    "original_text_version": "bb",
+    "original_text": "上仁爲之而无以爲也",
+    "modified_text_version": "fy",
+    "modified_text": "上仁爲之而無以爲",
+    "edit_distance": 2,
+    "operations": [
+      {
+        "type": "replace",
+        "original_char": "无",
+        "target_char": "無",
+        "position": 5
+      },
+      {
+        "type": "delete",
+        "char": "也",
+        "position": 8
+      }
+    ],
+    "operations_dp": [
+      {
+        "type": "replace",
+        "original_char": "无",
+        "target_char": "無",
+        "position": 5
+      },
+      {
+        "type": "delete",
+        "char": "也",
+        "position": 8
+      }
+    ],
+    "operations_llm": [
+      {
+        "type": "delete",
+        "char": "也",
+        "position": 8
+      },
+      {
+        "type": "replace",
+        "original_char": "无",
+        "target_char": "無",
+        "position": 5
+      }
+    ],
+    "edit_distance_llm": 2
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 6,
+    "original_text_version": "bb",
+    "original_text": "上仁爲之而无以爲也",
+    "modified_text_version": "hj",
+    "modified_text": "上仁爲之而無以爲",
+    "edit_distance": 2,
+    "operations": [
+      {
+        "type": "replace",
+        "original_char": "无",
+        "target_char": "無",
+        "position": 5
+      },
+      {
+        "type": "delete",
+        "char": "也",
+        "position": 8
+      }
+    ],
+    "operations_dp": [
+      {
+        "type": "replace",
+        "original_char": "无",
+        "target_char": "無",
+        "position": 5
+      },
+      {
+        "type": "delete",
+        "char": "也",
+        "position": 8
+      }
+    ],
+    "operations_llm": [
+      {
+        "type": "delete",
+        "char": "也",
+        "position": 8
+      },
+      {
+        "type": "replace",
+        "original_char": "无",
+        "target_char": "無",
+        "position": 5
+      }
+    ],
+    "edit_distance_llm": 2
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 6,
+    "original_text_version": "bb",
+    "original_text": "上仁爲之而无以爲也",
+    "modified_text_version": "hs",
+    "modified_text": "上仁爲之而無以爲",
+    "edit_distance": 2,
+    "operations": [
+      {
+        "type": "replace",
+        "original_char": "无",
+        "target_char": "無",
+        "position": 5
+      },
+      {
+        "type": "delete",
+        "char": "也",
+        "position": 8
+      }
+    ],
+    "operations_dp": [
+      {
+        "type": "replace",
+        "original_char": "无",
+        "target_char": "無",
+        "position": 5
+      },
+      {
+        "type": "delete",
+        "char": "也",
+        "position": 8
+      }
+    ],
+    "operations_llm": [
+      {
+        "type": "delete",
+        "char": "也",
+        "position": 8
+      },
+      {
+        "type": "replace",
+        "original_char": "无",
+        "target_char": "無",
+        "position": 5
+      }
+    ],
+    "edit_distance_llm": 2
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 6,
+    "original_text_version": "bb",
+    "original_text": "上仁爲之而无以爲也",
+    "modified_text_version": "wb",
+    "modified_text": "上仁爲之而無以爲",
+    "edit_distance": 2,
+    "operations": [
+      {
+        "type": "replace",
+        "original_char": "无",
+        "target_char": "無",
+        "position": 5
+      },
+      {
+        "type": "delete",
+        "char": "也",
+        "position": 8
+      }
+    ],
+    "operations_dp": [
+      {
+        "type": "replace",
+        "original_char": "无",
+        "target_char": "無",
+        "position": 5
+      },
+      {
+        "type": "delete",
+        "char": "也",
+        "position": 8
+      }
+    ],
+    "operations_llm": [
+      {
+        "type": "delete",
+        "char": "也",
+        "position": 8
+      },
+      {
+        "type": "replace",
+        "original_char": "无",
+        "target_char": "無",
+        "position": 5
+      }
+    ],
+    "edit_distance_llm": 2
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 6,
+    "original_text_version": "bb",
+    "original_text": "上仁爲之而无以爲也",
+    "modified_text_version": "yz",
+    "modified_text": "上仁爲之而無以爲",
+    "edit_distance": 2,
+    "operations": [
+      {
+        "type": "replace",
+        "original_char": "无",
+        "target_char": "無",
+        "position": 5
+      },
+      {
+        "type": "delete",
+        "char": "也",
+        "position": 8
+      }
+    ],
+    "operations_dp": [
+      {
+        "type": "replace",
+        "original_char": "无",
+        "target_char": "無",
+        "position": 5
+      },
+      {
+        "type": "delete",
+        "char": "也",
+        "position": 8
+      }
+    ],
+    "operations_llm": [
+      {
+        "type": "delete",
+        "char": "也",
+        "position": 8
+      },
+      {
+        "type": "replace",
+        "original_char": "无",
+        "target_char": "無",
+        "position": 5
+      }
+    ],
+    "edit_distance_llm": 2
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 6,
+    "original_text_version": "fy",
+    "original_text": "上仁爲之而無以爲",
+    "modified_text_version": "hj",
+    "modified_text": "上仁爲之而無以爲",
+    "edit_distance": 0,
+    "operations": [],
+    "operations_dp": [],
+    "operations_llm": [],
+    "edit_distance_llm": 0
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 6,
+    "original_text_version": "fy",
+    "original_text": "上仁爲之而無以爲",
+    "modified_text_version": "hs",
+    "modified_text": "上仁爲之而無以爲",
+    "edit_distance": 0,
+    "operations": [],
+    "operations_dp": [],
+    "operations_llm": [],
+    "edit_distance_llm": 0
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 6,
+    "original_text_version": "fy",
+    "original_text": "上仁爲之而無以爲",
+    "modified_text_version": "wb",
+    "modified_text": "上仁爲之而無以爲",
+    "edit_distance": 0,
+    "operations": [],
+    "operations_dp": [],
+    "operations_llm": [],
+    "edit_distance_llm": 0
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 6,
+    "original_text_version": "fy",
+    "original_text": "上仁爲之而無以爲",
+    "modified_text_version": "yz",
+    "modified_text": "上仁爲之而無以爲",
+    "edit_distance": 0,
+    "operations": [],
+    "operations_dp": [],
+    "operations_llm": [],
+    "edit_distance_llm": 0
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 6,
+    "original_text_version": "hj",
+    "original_text": "上仁爲之而無以爲",
+    "modified_text_version": "hs",
+    "modified_text": "上仁爲之而無以爲",
+    "edit_distance": 0,
+    "operations": [],
+    "operations_dp": [],
+    "operations_llm": [],
+    "edit_distance_llm": 0
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 6,
+    "original_text_version": "hj",
+    "original_text": "上仁爲之而無以爲",
+    "modified_text_version": "wb",
+    "modified_text": "上仁爲之而無以爲",
+    "edit_distance": 0,
+    "operations": [],
+    "operations_dp": [],
+    "operations_llm": [],
+    "edit_distance_llm": 0
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 6,
+    "original_text_version": "hj",
+    "original_text": "上仁爲之而無以爲",
+    "modified_text_version": "yz",
+    "modified_text": "上仁爲之而無以爲",
+    "edit_distance": 0,
+    "operations": [],
+    "operations_dp": [],
+    "operations_llm": [],
+    "edit_distance_llm": 0
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 6,
+    "original_text_version": "hs",
+    "original_text": "上仁爲之而無以爲",
+    "modified_text_version": "wb",
+    "modified_text": "上仁爲之而無以爲",
+    "edit_distance": 0,
+    "operations": [],
+    "operations_dp": [],
+    "operations_llm": [],
+    "edit_distance_llm": 0
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 6,
+    "original_text_version": "hs",
+    "original_text": "上仁爲之而無以爲",
+    "modified_text_version": "yz",
+    "modified_text": "上仁爲之而無以爲",
+    "edit_distance": 0,
+    "operations": [],
+    "operations_dp": [],
+    "operations_llm": [],
+    "edit_distance_llm": 0
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 6,
+    "original_text_version": "wb",
+    "original_text": "上仁爲之而無以爲",
+    "modified_text_version": "yz",
+    "modified_text": "上仁爲之而無以爲",
+    "edit_distance": 0,
+    "operations": [],
+    "operations_dp": [],
+    "operations_llm": [],
+    "edit_distance_llm": 0
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 7,
+    "original_text_version": "ba",
+    "original_text": "上義爲之而有以爲也",
+    "modified_text_version": "bb",
+    "modified_text": "上德爲之而有以爲也",
+    "edit_distance": 1,
+    "operations": [
+      {
+        "type": "replace",
+        "original_char": "義",
+        "target_char": "德",
+        "position": 1
+      }
+    ],
+    "operations_dp": [
+      {
+        "type": "replace",
+        "original_char": "義",
+        "target_char": "德",
+        "position": 1
+      }
+    ],
+    "operations_llm": [
+      {
+        "type": "replace",
+        "original_char": "義",
+        "target_char": "德",
+        "position": 1
+      }
+    ],
+    "edit_distance_llm": 1
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 7,
+    "original_text_version": "ba",
+    "original_text": "上義爲之而有以爲也",
+    "modified_text_version": "fy",
+    "modified_text": "上義爲之而有以爲",
+    "edit_distance": 1,
+    "operations": [
+      {
+        "type": "delete",
+        "char": "也",
+        "position": 8
+      }
+    ],
+    "operations_dp": [
+      {
+        "type": "delete",
+        "char": "也",
+        "position": 8
+      }
+    ],
+    "operations_llm": [
+      {
+        "type": "delete",
+        "char": "也",
+        "position": 8
+      }
+    ],
+    "edit_distance_llm": 1
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 7,
+    "original_text_version": "ba",
+    "original_text": "上義爲之而有以爲也",
+    "modified_text_version": "hj",
+    "modified_text": "上義爲之而有以爲",
+    "edit_distance": 1,
+    "operations": [
+      {
+        "type": "delete",
+        "char": "也",
+        "position": 8
+      }
+    ],
+    "operations_dp": [
+      {
+        "type": "delete",
+        "char": "也",
+        "position": 8
+      }
+    ],
+    "operations_llm": [
+      {
+        "type": "delete",
+        "char": "也",
+        "position": 8
+      }
+    ],
+    "edit_distance_llm": 1
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 7,
+    "original_text_version": "ba",
+    "original_text": "上義爲之而有以爲也",
+    "modified_text_version": "hs",
+    "modified_text": "上義爲之而有以爲",
+    "edit_distance": 1,
+    "operations": [
+      {
+        "type": "delete",
+        "char": "也",
+        "position": 8
+      }
+    ],
+    "operations_dp": [
+      {
+        "type": "delete",
+        "char": "也",
+        "position": 8
+      }
+    ],
+    "operations_llm": [
+      {
+        "type": "delete",
+        "char": "也",
+        "position": 8
+      }
+    ],
+    "edit_distance_llm": 1
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 7,
+    "original_text_version": "ba",
+    "original_text": "上義爲之而有以爲也",
+    "modified_text_version": "wb",
+    "modified_text": "上義爲之而有以爲",
+    "edit_distance": 1,
+    "operations": [
+      {
+        "type": "delete",
+        "char": "也",
+        "position": 8
+      }
+    ],
+    "operations_dp": [
+      {
+        "type": "delete",
+        "char": "也",
+        "position": 8
+      }
+    ],
+    "operations_llm": [
+      {
+        "type": "delete",
+        "char": "也",
+        "position": 8
+      }
+    ],
+    "edit_distance_llm": 1
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 7,
+    "original_text_version": "ba",
+    "original_text": "上義爲之而有以爲也",
+    "modified_text_version": "yz",
+    "modified_text": "上義爲之而有以爲",
+    "edit_distance": 1,
+    "operations": [
+      {
+        "type": "delete",
+        "char": "也",
+        "position": 8
+      }
+    ],
+    "operations_dp": [
+      {
+        "type": "delete",
+        "char": "也",
+        "position": 8
+      }
+    ],
+    "operations_llm": [
+      {
+        "type": "delete",
+        "char": "也",
+        "position": 8
+      }
+    ],
+    "edit_distance_llm": 1
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 7,
+    "original_text_version": "bb",
+    "original_text": "上德爲之而有以爲也",
+    "modified_text_version": "fy",
+    "modified_text": "上義爲之而有以爲",
+    "edit_distance": 2,
+    "operations": [
+      {
+        "type": "replace",
+        "original_char": "德",
+        "target_char": "義",
+        "position": 1
+      },
+      {
+        "type": "delete",
+        "char": "也",
+        "position": 8
+      }
+    ],
+    "operations_dp": [
+      {
+        "type": "replace",
+        "original_char": "德",
+        "target_char": "義",
+        "position": 1
+      },
+      {
+        "type": "delete",
+        "char": "也",
+        "position": 8
+      }
+    ],
+    "operations_llm": [
+      {
+        "type": "delete",
+        "char": "也",
+        "position": 8
+      },
+      {
+        "type": "replace",
+        "original_char": "德",
+        "target_char": "義",
+        "position": 1
+      }
+    ],
+    "edit_distance_llm": 2
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 7,
+    "original_text_version": "bb",
+    "original_text": "上德爲之而有以爲也",
+    "modified_text_version": "hj",
+    "modified_text": "上義爲之而有以爲",
+    "edit_distance": 2,
+    "operations": [
+      {
+        "type": "replace",
+        "original_char": "德",
+        "target_char": "義",
+        "position": 1
+      },
+      {
+        "type": "delete",
+        "char": "也",
+        "position": 8
+      }
+    ],
+    "operations_dp": [
+      {
+        "type": "replace",
+        "original_char": "德",
+        "target_char": "義",
+        "position": 1
+      },
+      {
+        "type": "delete",
+        "char": "也",
+        "position": 8
+      }
+    ],
+    "operations_llm": [
+      {
+        "type": "delete",
+        "char": "也",
+        "position": 8
+      },
+      {
+        "type": "replace",
+        "original_char": "德",
+        "target_char": "義",
+        "position": 1
+      }
+    ],
+    "edit_distance_llm": 2
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 7,
+    "original_text_version": "bb",
+    "original_text": "上德爲之而有以爲也",
+    "modified_text_version": "hs",
+    "modified_text": "上義爲之而有以爲",
+    "edit_distance": 2,
+    "operations": [
+      {
+        "type": "replace",
+        "original_char": "德",
+        "target_char": "義",
+        "position": 1
+      },
+      {
+        "type": "delete",
+        "char": "也",
+        "position": 8
+      }
+    ],
+    "operations_dp": [
+      {
+        "type": "replace",
+        "original_char": "德",
+        "target_char": "義",
+        "position": 1
+      },
+      {
+        "type": "delete",
+        "char": "也",
+        "position": 8
+      }
+    ],
+    "operations_llm": [
+      {
+        "type": "delete",
+        "char": "也",
+        "position": 8
+      },
+      {
+        "type": "replace",
+        "original_char": "德",
+        "target_char": "義",
+        "position": 1
+      }
+    ],
+    "edit_distance_llm": 2
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 7,
+    "original_text_version": "bb",
+    "original_text": "上德爲之而有以爲也",
+    "modified_text_version": "wb",
+    "modified_text": "上義爲之而有以爲",
+    "edit_distance": 2,
+    "operations": [
+      {
+        "type": "replace",
+        "original_char": "德",
+        "target_char": "義",
+        "position": 1
+      },
+      {
+        "type": "delete",
+        "char": "也",
+        "position": 8
+      }
+    ],
+    "operations_dp": [
+      {
+        "type": "replace",
+        "original_char": "德",
+        "target_char": "義",
+        "position": 1
+      },
+      {
+        "type": "delete",
+        "char": "也",
+        "position": 8
+      }
+    ],
+    "operations_llm": [
+      {
+        "type": "delete",
+        "char": "也",
+        "position": 8
+      },
+      {
+        "type": "replace",
+        "original_char": "德",
+        "target_char": "義",
+        "position": 1
+      }
+    ],
+    "edit_distance_llm": 2
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 7,
+    "original_text_version": "bb",
+    "original_text": "上德爲之而有以爲也",
+    "modified_text_version": "yz",
+    "modified_text": "上義爲之而有以爲",
+    "edit_distance": 2,
+    "operations": [
+      {
+        "type": "replace",
+        "original_char": "德",
+        "target_char": "義",
+        "position": 1
+      },
+      {
+        "type": "delete",
+        "char": "也",
+        "position": 8
+      }
+    ],
+    "operations_dp": [
+      {
+        "type": "replace",
+        "original_char": "德",
+        "target_char": "義",
+        "position": 1
+      },
+      {
+        "type": "delete",
+        "char": "也",
+        "position": 8
+      }
+    ],
+    "operations_llm": [
+      {
+        "type": "delete",
+        "char": "也",
+        "position": 8
+      },
+      {
+        "type": "replace",
+        "original_char": "德",
+        "target_char": "義",
+        "position": 1
+      }
+    ],
+    "edit_distance_llm": 2
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 7,
+    "original_text_version": "fy",
+    "original_text": "上義爲之而有以爲",
+    "modified_text_version": "hj",
+    "modified_text": "上義爲之而有以爲",
+    "edit_distance": 0,
+    "operations": [],
+    "operations_dp": [],
+    "operations_llm": [],
+    "edit_distance_llm": 0
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 7,
+    "original_text_version": "fy",
+    "original_text": "上義爲之而有以爲",
+    "modified_text_version": "hs",
+    "modified_text": "上義爲之而有以爲",
+    "edit_distance": 0,
+    "operations": [],
+    "operations_dp": [],
+    "operations_llm": [],
+    "edit_distance_llm": 0
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 7,
+    "original_text_version": "fy",
+    "original_text": "上義爲之而有以爲",
+    "modified_text_version": "wb",
+    "modified_text": "上義爲之而有以爲",
+    "edit_distance": 0,
+    "operations": [],
+    "operations_dp": [],
+    "operations_llm": [],
+    "edit_distance_llm": 0
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 7,
+    "original_text_version": "fy",
+    "original_text": "上義爲之而有以爲",
+    "modified_text_version": "yz",
+    "modified_text": "上義爲之而有以爲",
+    "edit_distance": 0,
+    "operations": [],
+    "operations_dp": [],
+    "operations_llm": [],
+    "edit_distance_llm": 0
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 7,
+    "original_text_version": "hj",
+    "original_text": "上義爲之而有以爲",
+    "modified_text_version": "hs",
+    "modified_text": "上義爲之而有以爲",
+    "edit_distance": 0,
+    "operations": [],
+    "operations_dp": [],
+    "operations_llm": [],
+    "edit_distance_llm": 0
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 7,
+    "original_text_version": "hj",
+    "original_text": "上義爲之而有以爲",
+    "modified_text_version": "wb",
+    "modified_text": "上義爲之而有以爲",
+    "edit_distance": 0,
+    "operations": [],
+    "operations_dp": [],
+    "operations_llm": [],
+    "edit_distance_llm": 0
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 7,
+    "original_text_version": "hj",
+    "original_text": "上義爲之而有以爲",
+    "modified_text_version": "yz",
+    "modified_text": "上義爲之而有以爲",
+    "edit_distance": 0,
+    "operations": [],
+    "operations_dp": [],
+    "operations_llm": [],
+    "edit_distance_llm": 0
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 7,
+    "original_text_version": "hs",
+    "original_text": "上義爲之而有以爲",
+    "modified_text_version": "wb",
+    "modified_text": "上義爲之而有以爲",
+    "edit_distance": 0,
+    "operations": [],
+    "operations_dp": [],
+    "operations_llm": [],
+    "edit_distance_llm": 0
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 7,
+    "original_text_version": "hs",
+    "original_text": "上義爲之而有以爲",
+    "modified_text_version": "yz",
+    "modified_text": "上義爲之而有以爲",
+    "edit_distance": 0,
+    "operations": [],
+    "operations_dp": [],
+    "operations_llm": [],
+    "edit_distance_llm": 0
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 7,
+    "original_text_version": "wb",
+    "original_text": "上義爲之而有以爲",
+    "modified_text_version": "yz",
+    "modified_text": "上義爲之而有以爲",
+    "edit_distance": 0,
+    "operations": [],
+    "operations_dp": [],
+    "operations_llm": [],
+    "edit_distance_llm": 0
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 8,
+    "original_text_version": "ba",
+    "original_text": "上禮□□□□□□□",
+    "modified_text_version": "bb",
+    "modified_text": "上禮爲之而莫之應也",
+    "edit_distance": 7,
+    "operations": [
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "爲",
+        "position": 2
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "之",
+        "position": 3
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "而",
+        "position": 4
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "莫",
+        "position": 5
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "之",
+        "position": 6
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "應",
+        "position": 7
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "也",
+        "position": 8
+      }
+    ],
+    "operations_dp": [
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "爲",
+        "position": 2
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "之",
+        "position": 3
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "而",
+        "position": 4
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "莫",
+        "position": 5
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "之",
+        "position": 6
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "應",
+        "position": 7
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "也",
+        "position": 8
+      }
+    ],
+    "operations_llm": [
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "爲",
+        "position": 2
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "之",
+        "position": 3
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "而",
+        "position": 4
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "莫",
+        "position": 5
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "之",
+        "position": 6
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "應",
+        "position": 7
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "也",
+        "position": 8
+      }
+    ],
+    "edit_distance_llm": 7
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 8,
+    "original_text_version": "ba",
+    "original_text": "上禮□□□□□□□",
+    "modified_text_version": "hj",
+    "modified_text": "上禮爲之而莫之應",
+    "edit_distance": 7,
+    "operations": [
+      {
+        "type": "delete",
+        "char": "□",
+        "position": 2
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "爲",
+        "position": 3
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "之",
+        "position": 4
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "而",
+        "position": 5
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "莫",
+        "position": 6
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "之",
+        "position": 7
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "應",
+        "position": 8
+      }
+    ],
+    "operations_dp": [
+      {
+        "type": "delete",
+        "char": "□",
+        "position": 2
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "爲",
+        "position": 3
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "之",
+        "position": 4
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "而",
+        "position": 5
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "莫",
+        "position": 6
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "之",
+        "position": 7
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "應",
+        "position": 8
+      }
+    ],
+    "operations_llm": [
+      {
+        "type": "delete",
+        "char": "□",
+        "position": 2
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "爲",
+        "position": 3
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "之",
+        "position": 4
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "而",
+        "position": 5
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "莫",
+        "position": 6
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "之",
+        "position": 7
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "應",
+        "position": 8
+      }
+    ],
+    "edit_distance_llm": 7
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 8,
+    "original_text_version": "ba",
+    "original_text": "上禮□□□□□□□",
+    "modified_text_version": "hs",
+    "modified_text": "上禮爲之而莫之應",
+    "edit_distance": 7,
+    "operations": [
+      {
+        "type": "delete",
+        "char": "□",
+        "position": 2
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "爲",
+        "position": 3
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "之",
+        "position": 4
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "而",
+        "position": 5
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "莫",
+        "position": 6
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "之",
+        "position": 7
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "應",
+        "position": 8
+      }
+    ],
+    "operations_dp": [
+      {
+        "type": "delete",
+        "char": "□",
+        "position": 2
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "爲",
+        "position": 3
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "之",
+        "position": 4
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "而",
+        "position": 5
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "莫",
+        "position": 6
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "之",
+        "position": 7
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "應",
+        "position": 8
+      }
+    ],
+    "operations_llm": [
+      {
+        "type": "delete",
+        "char": "□",
+        "position": 2
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "爲",
+        "position": 3
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "之",
+        "position": 4
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "而",
+        "position": 5
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "莫",
+        "position": 6
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "之",
+        "position": 7
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "應",
+        "position": 8
+      }
+    ],
+    "edit_distance_llm": 7
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 8,
+    "original_text_version": "ba",
+    "original_text": "上禮□□□□□□□",
+    "modified_text_version": "wb",
+    "modified_text": "上禮爲之而莫之應",
+    "edit_distance": 7,
+    "operations": [
+      {
+        "type": "delete",
+        "char": "□",
+        "position": 2
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "爲",
+        "position": 3
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "之",
+        "position": 4
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "而",
+        "position": 5
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "莫",
+        "position": 6
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "之",
+        "position": 7
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "應",
+        "position": 8
+      }
+    ],
+    "operations_dp": [
+      {
+        "type": "delete",
+        "char": "□",
+        "position": 2
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "爲",
+        "position": 3
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "之",
+        "position": 4
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "而",
+        "position": 5
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "莫",
+        "position": 6
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "之",
+        "position": 7
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "應",
+        "position": 8
+      }
+    ],
+    "operations_llm": [
+      {
+        "type": "delete",
+        "char": "□",
+        "position": 2
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "爲",
+        "position": 3
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "之",
+        "position": 4
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "而",
+        "position": 5
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "莫",
+        "position": 6
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "之",
+        "position": 7
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "應",
+        "position": 8
+      }
+    ],
+    "edit_distance_llm": 7
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 8,
+    "original_text_version": "ba",
+    "original_text": "上禮□□□□□□□",
+    "modified_text_version": "yz",
+    "modified_text": "上禮爲之而莫之應",
+    "edit_distance": 7,
+    "operations": [
+      {
+        "type": "delete",
+        "char": "□",
+        "position": 2
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "爲",
+        "position": 3
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "之",
+        "position": 4
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "而",
+        "position": 5
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "莫",
+        "position": 6
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "之",
+        "position": 7
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "應",
+        "position": 8
+      }
+    ],
+    "operations_dp": [
+      {
+        "type": "delete",
+        "char": "□",
+        "position": 2
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "爲",
+        "position": 3
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "之",
+        "position": 4
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "而",
+        "position": 5
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "莫",
+        "position": 6
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "之",
+        "position": 7
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "應",
+        "position": 8
+      }
+    ],
+    "operations_llm": [
+      {
+        "type": "delete",
+        "char": "□",
+        "position": 2
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "爲",
+        "position": 3
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "之",
+        "position": 4
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "而",
+        "position": 5
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "莫",
+        "position": 6
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "之",
+        "position": 7
+      },
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "應",
+        "position": 8
+      }
+    ],
+    "edit_distance_llm": 7
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 8,
+    "original_text_version": "bb",
+    "original_text": "上禮爲之而莫之應也",
+    "modified_text_version": "fy",
+    "modified_text": "上禮爲之而莫之應",
+    "edit_distance": 1,
+    "operations": [
+      {
+        "type": "delete",
+        "char": "也",
+        "position": 8
+      }
+    ],
+    "operations_dp": [
+      {
+        "type": "delete",
+        "char": "也",
+        "position": 8
+      }
+    ],
+    "operations_llm": [
+      {
+        "type": "delete",
+        "char": "也",
+        "position": 8
+      }
+    ],
+    "edit_distance_llm": 1
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 8,
+    "original_text_version": "bb",
+    "original_text": "上禮爲之而莫之應也",
+    "modified_text_version": "hj",
+    "modified_text": "上禮爲之而莫之應",
+    "edit_distance": 1,
+    "operations": [
+      {
+        "type": "delete",
+        "char": "也",
+        "position": 8
+      }
+    ],
+    "operations_dp": [
+      {
+        "type": "delete",
+        "char": "也",
+        "position": 8
+      }
+    ],
+    "operations_llm": [
+      {
+        "type": "delete",
+        "char": "也",
+        "position": 8
+      }
+    ],
+    "edit_distance_llm": 1
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 8,
+    "original_text_version": "bb",
+    "original_text": "上禮爲之而莫之應也",
+    "modified_text_version": "hs",
+    "modified_text": "上禮爲之而莫之應",
+    "edit_distance": 1,
+    "operations": [
+      {
+        "type": "delete",
+        "char": "也",
+        "position": 8
+      }
+    ],
+    "operations_dp": [
+      {
+        "type": "delete",
+        "char": "也",
+        "position": 8
+      }
+    ],
+    "operations_llm": [
+      {
+        "type": "delete",
+        "char": "也",
+        "position": 8
+      }
+    ],
+    "edit_distance_llm": 1
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 8,
+    "original_text_version": "bb",
+    "original_text": "上禮爲之而莫之應也",
+    "modified_text_version": "wb",
+    "modified_text": "上禮爲之而莫之應",
+    "edit_distance": 1,
+    "operations": [
+      {
+        "type": "delete",
+        "char": "也",
+        "position": 8
+      }
+    ],
+    "operations_dp": [
+      {
+        "type": "delete",
+        "char": "也",
+        "position": 8
+      }
+    ],
+    "operations_llm": [
+      {
+        "type": "delete",
+        "char": "也",
+        "position": 8
+      }
+    ],
+    "edit_distance_llm": 1
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 8,
+    "original_text_version": "bb",
+    "original_text": "上禮爲之而莫之應也",
+    "modified_text_version": "yz",
+    "modified_text": "上禮爲之而莫之應",
+    "edit_distance": 1,
+    "operations": [
+      {
+        "type": "delete",
+        "char": "也",
+        "position": 8
+      }
+    ],
+    "operations_dp": [
+      {
+        "type": "delete",
+        "char": "也",
+        "position": 8
+      }
+    ],
+    "operations_llm": [
+      {
+        "type": "delete",
+        "char": "也",
+        "position": 8
+      }
+    ],
+    "edit_distance_llm": 1
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 8,
+    "original_text_version": "fy",
+    "original_text": "上禮爲之而莫之應",
+    "modified_text_version": "hj",
+    "modified_text": "上禮爲之而莫之應",
+    "edit_distance": 0,
+    "operations": [],
+    "operations_dp": [],
+    "operations_llm": [],
+    "edit_distance_llm": 0
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 8,
+    "original_text_version": "fy",
+    "original_text": "上禮爲之而莫之應",
+    "modified_text_version": "hs",
+    "modified_text": "上禮爲之而莫之應",
+    "edit_distance": 0,
+    "operations": [],
+    "operations_dp": [],
+    "operations_llm": [],
+    "edit_distance_llm": 0
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 8,
+    "original_text_version": "fy",
+    "original_text": "上禮爲之而莫之應",
+    "modified_text_version": "wb",
+    "modified_text": "上禮爲之而莫之應",
+    "edit_distance": 0,
+    "operations": [],
+    "operations_dp": [],
+    "operations_llm": [],
+    "edit_distance_llm": 0
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 8,
+    "original_text_version": "fy",
+    "original_text": "上禮爲之而莫之應",
+    "modified_text_version": "yz",
+    "modified_text": "上禮爲之而莫之應",
+    "edit_distance": 0,
+    "operations": [],
+    "operations_dp": [],
+    "operations_llm": [],
+    "edit_distance_llm": 0
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 8,
+    "original_text_version": "hj",
+    "original_text": "上禮爲之而莫之應",
+    "modified_text_version": "hs",
+    "modified_text": "上禮爲之而莫之應",
+    "edit_distance": 0,
+    "operations": [],
+    "operations_dp": [],
+    "operations_llm": [],
+    "edit_distance_llm": 0
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 8,
+    "original_text_version": "hj",
+    "original_text": "上禮爲之而莫之應",
+    "modified_text_version": "wb",
+    "modified_text": "上禮爲之而莫之應",
+    "edit_distance": 0,
+    "operations": [],
+    "operations_dp": [],
+    "operations_llm": [],
+    "edit_distance_llm": 0
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 8,
+    "original_text_version": "hj",
+    "original_text": "上禮爲之而莫之應",
+    "modified_text_version": "yz",
+    "modified_text": "上禮爲之而莫之應",
+    "edit_distance": 0,
+    "operations": [],
+    "operations_dp": [],
+    "operations_llm": [],
+    "edit_distance_llm": 0
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 8,
+    "original_text_version": "hs",
+    "original_text": "上禮爲之而莫之應",
+    "modified_text_version": "wb",
+    "modified_text": "上禮爲之而莫之應",
+    "edit_distance": 0,
+    "operations": [],
+    "operations_dp": [],
+    "operations_llm": [],
+    "edit_distance_llm": 0
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 8,
+    "original_text_version": "hs",
+    "original_text": "上禮爲之而莫之應",
+    "modified_text_version": "yz",
+    "modified_text": "上禮爲之而莫之應",
+    "edit_distance": 0,
+    "operations": [],
+    "operations_dp": [],
+    "operations_llm": [],
+    "edit_distance_llm": 0
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 8,
+    "original_text_version": "wb",
+    "original_text": "上禮爲之而莫之應",
+    "modified_text_version": "yz",
+    "modified_text": "上禮爲之而莫之應",
+    "edit_distance": 0,
+    "operations": [],
+    "operations_dp": [],
+    "operations_llm": [],
+    "edit_distance_llm": 0
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 9,
+    "original_text_version": "ba",
+    "original_text": "□攘臂而乃之",
+    "modified_text_version": "bb",
+    "modified_text": "則攘臂而乃之",
+    "edit_distance": 1,
+    "operations": [
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "則",
+        "position": 0
+      }
+    ],
+    "operations_dp": [
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "則",
+        "position": 0
+      }
+    ],
+    "operations_llm": [
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "則",
+        "position": 0
+      }
+    ],
+    "edit_distance_llm": 1
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 9,
+    "original_text_version": "ba",
+    "original_text": "□攘臂而乃之",
+    "modified_text_version": "fy",
+    "modified_text": "則攘臂而仍之",
+    "edit_distance": 2,
+    "operations": [
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "則",
+        "position": 0
+      },
+      {
+        "type": "replace",
+        "original_char": "乃",
+        "target_char": "仍",
+        "position": 4
+      }
+    ],
+    "operations_dp": [
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "則",
+        "position": 0
+      },
+      {
+        "type": "replace",
+        "original_char": "乃",
+        "target_char": "仍",
+        "position": 4
+      }
+    ],
+    "operations_llm": [
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "則",
+        "position": 0
+      },
+      {
+        "type": "replace",
+        "original_char": "乃",
+        "target_char": "仍",
+        "position": 4
+      }
+    ],
+    "edit_distance_llm": 2
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 9,
+    "original_text_version": "ba",
+    "original_text": "□攘臂而乃之",
+    "modified_text_version": "hj",
+    "modified_text": "則攘臂而乃之",
+    "edit_distance": 1,
+    "operations": [
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "則",
+        "position": 0
+      }
+    ],
+    "operations_dp": [
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "則",
+        "position": 0
+      }
+    ],
+    "operations_llm": [
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "則",
+        "position": 0
+      }
+    ],
+    "edit_distance_llm": 1
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 9,
+    "original_text_version": "ba",
+    "original_text": "□攘臂而乃之",
+    "modified_text_version": "hs",
+    "modified_text": "則攘臂而仍之",
+    "edit_distance": 2,
+    "operations": [
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "則",
+        "position": 0
+      },
+      {
+        "type": "replace",
+        "original_char": "乃",
+        "target_char": "仍",
+        "position": 4
+      }
+    ],
+    "operations_dp": [
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "則",
+        "position": 0
+      },
+      {
+        "type": "replace",
+        "original_char": "乃",
+        "target_char": "仍",
+        "position": 4
+      }
+    ],
+    "operations_llm": [
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "則",
+        "position": 0
+      },
+      {
+        "type": "replace",
+        "original_char": "乃",
+        "target_char": "仍",
+        "position": 4
+      }
+    ],
+    "edit_distance_llm": 2
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 9,
+    "original_text_version": "ba",
+    "original_text": "□攘臂而乃之",
+    "modified_text_version": "wb",
+    "modified_text": "則攘臂而扔之",
+    "edit_distance": 2,
+    "operations": [
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "則",
+        "position": 0
+      },
+      {
+        "type": "replace",
+        "original_char": "乃",
+        "target_char": "扔",
+        "position": 4
+      }
+    ],
+    "operations_dp": [
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "則",
+        "position": 0
+      },
+      {
+        "type": "replace",
+        "original_char": "乃",
+        "target_char": "扔",
+        "position": 4
+      }
+    ],
+    "operations_llm": [
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "則",
+        "position": 0
+      },
+      {
+        "type": "replace",
+        "original_char": "乃",
+        "target_char": "扔",
+        "position": 4
+      }
+    ],
+    "edit_distance_llm": 2
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 9,
+    "original_text_version": "ba",
+    "original_text": "□攘臂而乃之",
+    "modified_text_version": "yz",
+    "modified_text": "則攘臂而仍之",
+    "edit_distance": 2,
+    "operations": [
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "則",
+        "position": 0
+      },
+      {
+        "type": "replace",
+        "original_char": "乃",
+        "target_char": "仍",
+        "position": 4
+      }
+    ],
+    "operations_dp": [
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "則",
+        "position": 0
+      },
+      {
+        "type": "replace",
+        "original_char": "乃",
+        "target_char": "仍",
+        "position": 4
+      }
+    ],
+    "operations_llm": [
+      {
+        "type": "replace",
+        "original_char": "□",
+        "target_char": "則",
+        "position": 0
+      },
+      {
+        "type": "replace",
+        "original_char": "乃",
+        "target_char": "仍",
+        "position": 4
+      }
+    ],
+    "edit_distance_llm": 2
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 9,
+    "original_text_version": "bb",
+    "original_text": "則攘臂而乃之",
+    "modified_text_version": "fy",
+    "modified_text": "則攘臂而仍之",
+    "edit_distance": 1,
+    "operations": [
+      {
+        "type": "replace",
+        "original_char": "乃",
+        "target_char": "仍",
+        "position": 4
+      }
+    ],
+    "operations_dp": [
+      {
+        "type": "replace",
+        "original_char": "乃",
+        "target_char": "仍",
+        "position": 4
+      }
+    ],
+    "operations_llm": [
+      {
+        "type": "replace",
+        "original_char": "乃",
+        "target_char": "仍",
+        "position": 4
+      }
+    ],
+    "edit_distance_llm": 1
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 9,
+    "original_text_version": "bb",
+    "original_text": "則攘臂而乃之",
+    "modified_text_version": "hj",
+    "modified_text": "則攘臂而乃之",
+    "edit_distance": 0,
+    "operations": [],
+    "operations_dp": [],
+    "operations_llm": [],
+    "edit_distance_llm": 0
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 9,
+    "original_text_version": "bb",
+    "original_text": "則攘臂而乃之",
+    "modified_text_version": "hs",
+    "modified_text": "則攘臂而仍之",
+    "edit_distance": 1,
+    "operations": [
+      {
+        "type": "replace",
+        "original_char": "乃",
+        "target_char": "仍",
+        "position": 4
+      }
+    ],
+    "operations_dp": [
+      {
+        "type": "replace",
+        "original_char": "乃",
+        "target_char": "仍",
+        "position": 4
+      }
+    ],
+    "operations_llm": [
+      {
+        "type": "replace",
+        "original_char": "乃",
+        "target_char": "仍",
+        "position": 4
+      }
+    ],
+    "edit_distance_llm": 1
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 9,
+    "original_text_version": "bb",
+    "original_text": "則攘臂而乃之",
+    "modified_text_version": "wb",
+    "modified_text": "則攘臂而扔之",
+    "edit_distance": 1,
+    "operations": [
+      {
+        "type": "replace",
+        "original_char": "乃",
+        "target_char": "扔",
+        "position": 4
+      }
+    ],
+    "operations_dp": [
+      {
+        "type": "replace",
+        "original_char": "乃",
+        "target_char": "扔",
+        "position": 4
+      }
+    ],
+    "operations_llm": [
+      {
+        "type": "replace",
+        "original_char": "乃",
+        "target_char": "扔",
+        "position": 4
+      }
+    ],
+    "edit_distance_llm": 1
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 9,
+    "original_text_version": "bb",
+    "original_text": "則攘臂而乃之",
+    "modified_text_version": "yz",
+    "modified_text": "則攘臂而仍之",
+    "edit_distance": 1,
+    "operations": [
+      {
+        "type": "replace",
+        "original_char": "乃",
+        "target_char": "仍",
+        "position": 4
+      }
+    ],
+    "operations_dp": [
+      {
+        "type": "replace",
+        "original_char": "乃",
+        "target_char": "仍",
+        "position": 4
+      }
+    ],
+    "operations_llm": [
+      {
+        "type": "replace",
+        "original_char": "乃",
+        "target_char": "仍",
+        "position": 4
+      }
+    ],
+    "edit_distance_llm": 1
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 9,
+    "original_text_version": "fy",
+    "original_text": "則攘臂而仍之",
+    "modified_text_version": "hj",
+    "modified_text": "則攘臂而乃之",
+    "edit_distance": 1,
+    "operations": [
+      {
+        "type": "replace",
+        "original_char": "仍",
+        "target_char": "乃",
+        "position": 4
+      }
+    ],
+    "operations_dp": [
+      {
+        "type": "replace",
+        "original_char": "仍",
+        "target_char": "乃",
+        "position": 4
+      }
+    ],
+    "operations_llm": [
+      {
+        "type": "replace",
+        "original_char": "仍",
+        "target_char": "乃",
+        "position": 4
+      }
+    ],
+    "edit_distance_llm": 1
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 9,
+    "original_text_version": "fy",
+    "original_text": "則攘臂而仍之",
+    "modified_text_version": "hs",
+    "modified_text": "則攘臂而仍之",
+    "edit_distance": 0,
+    "operations": [],
+    "operations_dp": [],
+    "operations_llm": [],
+    "edit_distance_llm": 0
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 9,
+    "original_text_version": "fy",
+    "original_text": "則攘臂而仍之",
+    "modified_text_version": "wb",
+    "modified_text": "則攘臂而扔之",
+    "edit_distance": 1,
+    "operations": [
+      {
+        "type": "replace",
+        "original_char": "仍",
+        "target_char": "扔",
+        "position": 4
+      }
+    ],
+    "operations_dp": [
+      {
+        "type": "replace",
+        "original_char": "仍",
+        "target_char": "扔",
+        "position": 4
+      }
+    ],
+    "operations_llm": [
+      {
+        "type": "replace",
+        "original_char": "仍",
+        "target_char": "扔",
+        "position": 4
+      }
+    ],
+    "edit_distance_llm": 1
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 9,
+    "original_text_version": "fy",
+    "original_text": "則攘臂而仍之",
+    "modified_text_version": "yz",
+    "modified_text": "則攘臂而仍之",
+    "edit_distance": 0,
+    "operations": [],
+    "operations_dp": [],
+    "operations_llm": [],
+    "edit_distance_llm": 0
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 9,
+    "original_text_version": "hj",
+    "original_text": "則攘臂而乃之",
+    "modified_text_version": "hs",
+    "modified_text": "則攘臂而仍之",
+    "edit_distance": 1,
+    "operations": [
+      {
+        "type": "replace",
+        "original_char": "乃",
+        "target_char": "仍",
+        "position": 4
+      }
+    ],
+    "operations_dp": [
+      {
+        "type": "replace",
+        "original_char": "乃",
+        "target_char": "仍",
+        "position": 4
+      }
+    ],
+    "operations_llm": [
+      {
+        "type": "replace",
+        "original_char": "乃",
+        "target_char": "仍",
+        "position": 4
+      }
+    ],
+    "edit_distance_llm": 1
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 9,
+    "original_text_version": "hj",
+    "original_text": "則攘臂而乃之",
+    "modified_text_version": "wb",
+    "modified_text": "則攘臂而扔之",
+    "edit_distance": 1,
+    "operations": [
+      {
+        "type": "replace",
+        "original_char": "乃",
+        "target_char": "扔",
+        "position": 4
+      }
+    ],
+    "operations_dp": [
+      {
+        "type": "replace",
+        "original_char": "乃",
+        "target_char": "扔",
+        "position": 4
+      }
+    ],
+    "operations_llm": [
+      {
+        "type": "replace",
+        "original_char": "乃",
+        "target_char": "扔",
+        "position": 4
+      }
+    ],
+    "edit_distance_llm": 1
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 9,
+    "original_text_version": "hj",
+    "original_text": "則攘臂而乃之",
+    "modified_text_version": "yz",
+    "modified_text": "則攘臂而仍之",
+    "edit_distance": 1,
+    "operations": [
+      {
+        "type": "replace",
+        "original_char": "乃",
+        "target_char": "仍",
+        "position": 4
+      }
+    ],
+    "operations_dp": [
+      {
+        "type": "replace",
+        "original_char": "乃",
+        "target_char": "仍",
+        "position": 4
+      }
+    ],
+    "operations_llm": [
+      {
+        "type": "replace",
+        "original_char": "乃",
+        "target_char": "仍",
+        "position": 4
+      }
+    ],
+    "edit_distance_llm": 1
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 9,
+    "original_text_version": "hs",
+    "original_text": "則攘臂而仍之",
+    "modified_text_version": "wb",
+    "modified_text": "則攘臂而扔之",
+    "edit_distance": 1,
+    "operations": [
+      {
+        "type": "replace",
+        "original_char": "仍",
+        "target_char": "扔",
+        "position": 4
+      }
+    ],
+    "operations_dp": [
+      {
+        "type": "replace",
+        "original_char": "仍",
+        "target_char": "扔",
+        "position": 4
+      }
+    ],
+    "operations_llm": [
+      {
+        "type": "replace",
+        "original_char": "仍",
+        "target_char": "扔",
+        "position": 4
+      }
+    ],
+    "edit_distance_llm": 1
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 9,
+    "original_text_version": "hs",
+    "original_text": "則攘臂而仍之",
+    "modified_text_version": "yz",
+    "modified_text": "則攘臂而仍之",
+    "edit_distance": 0,
+    "operations": [],
+    "operations_dp": [],
+    "operations_llm": [],
+    "edit_distance_llm": 0
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 9,
+    "original_text_version": "wb",
+    "original_text": "則攘臂而扔之",
+    "modified_text_version": "yz",
+    "modified_text": "則攘臂而仍之",
+    "edit_distance": 1,
+    "operations": [
+      {
+        "type": "replace",
+        "original_char": "扔",
+        "target_char": "仍",
+        "position": 4
+      }
+    ],
+    "operations_dp": [
+      {
+        "type": "replace",
+        "original_char": "扔",
+        "target_char": "仍",
+        "position": 4
+      }
+    ],
+    "operations_llm": [
+      {
+        "type": "replace",
+        "original_char": "扔",
+        "target_char": "仍",
+        "position": 4
+      }
+    ],
+    "edit_distance_llm": 1
+  },
+  {
+    "chapter_number": 0,
+    "sentence_number": 10,
+    "original_text_version": "ba",
+    "original_text": "故失道而后德",
+    "modified_text_version": "bb",
+    "modified_text": "故失道而后德",
+    "edit_distance": 0,
+    "operations": [],
+    "operations_dp": [],
+    "operations_llm": [],
+    "edit_distance_llm": 0
+  }
+]

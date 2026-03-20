@@ -1,0 +1,40 @@
+[{
+    "chapter_number": 10,
+    "sentence_number": 7,
+    "original_text_version": "hj",
+    "original_text": "及其有事",
+    "modified_text_version": "bb",
+    "modified_text": "及亓有事也",
+    "edit_distance": 2,
+    "operations":[
+        {"type": "replace", "original_char": "其", "target_char": "亓", "position": 1},
+        {"type": "insert", "char": "也", "position": 4}
+    ]
+},
+{
+    "chapter_number": 35,
+    "sentence_number": 6,
+    "original_text_version": "hj",
+    "original_text": "是以聖人自智而不自見也",
+    "modified_text_version": "hs",
+    "modified_text": "是以聖人自知不自見",
+    "edit_distance": 3,
+    "operations": [
+        {
+            "type": "delete",
+            "char": "智",
+            "position": 5
+        },
+        {
+            "type": "replace",
+            "original_char": "而",
+            "target_char": "知",
+            "position": 6
+        },
+        {
+            "type": "delete",
+            "char": "也",
+            "position": 10
+        }
+    ]
+}]
