@@ -3,6 +3,16 @@
 """
 使用 networkx 构建树状图的脚本
 处理 mora_v1.2_1228.json 嵌套树状结构
+输入参数：mora.json
+输出参数：graph_exports
+包括：
+1. mora_tree.graphml
+2. mora_tree.gml
+3. mora_tree_node_link.json
+4. mora_tree_statistics.png
+5. mora_tree_version_subtree.png
+6. mora_tree_structure.png
+7. mora_tree_statistics.png
 """
 import json
 import networkx as nx

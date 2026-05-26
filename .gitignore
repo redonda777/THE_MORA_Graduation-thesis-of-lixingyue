@@ -1,0 +1,9 @@
+*.json
+*.jsonl
+__pycache__/
+*.pyc
+node_modules/
+.idea/
+.vscode/
+.playwright-cli/
+*.log

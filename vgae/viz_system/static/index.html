@@ -1,0 +1,89 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Mora 亲缘关系可视化</title>
+    <link rel="stylesheet" href="/styles.css" />
+  </head>
+  <body>
+    <main class="app-shell">
+      <aside class="sidebar">
+        <div class="brand">
+          <div class="brand-mark">M</div>
+          <div>
+            <h1>Mora 亲缘图谱</h1>
+            <p>版本 · 章节 · 社区</p>
+          </div>
+        </div>
+
+        <section class="panel">
+          <div class="tabs" role="tablist">
+            <button class="tab active" data-mode="version">版本图</button>
+            <button class="tab" data-mode="chapter">章节查询</button>
+            <button class="tab" data-mode="matrix">亲缘矩阵</button>
+          </div>
+        </section>
+
+        <section class="panel stats-grid" id="statsPanel"></section>
+
+        <section class="panel chapter-controls" id="chapterControls">
+          <label for="chapterInput">第几章</label>
+          <div class="chapter-search">
+            <input id="chapterInput" type="number" min="1" value="1" />
+            <button id="loadChapterBtn">定位</button>
+          </div>
+          <select id="chapterSelect"></select>
+        </section>
+
+        <section class="panel">
+          <div class="section-title" id="rankingTitle">版本相似度排序</div>
+          <div class="ranking-list" id="rankingList"></div>
+        </section>
+      </aside>
+
+      <section class="workspace">
+        <header class="toolbar">
+          <div>
+            <h2 id="viewTitle">版本社区图</h2>
+            <p id="viewSubtitle">点击节点高亮关联结构。</p>
+          </div>
+          <div class="global-search hidden" id="sentenceSearch">
+            <input id="sentenceSearchInput" type="search" placeholder="搜索全书句子" />
+            <button id="sentenceSearchBtn">搜索</button>
+            <div class="search-status" id="sentenceSearchStatus"></div>
+          </div>
+          <div class="legend" id="legend"></div>
+        </header>
+
+        <section class="canvas-wrap">
+          <svg id="graphSvg" aria-label="interactive graph"></svg>
+          <div class="heatmap hidden" id="heatmap"></div>
+        </section>
+      </section>
+
+      <aside class="detail">
+        <section class="panel detail-card" id="detailPanel">
+          <div class="empty-state">点击节点查看详情并高亮关联</div>
+        </section>
+        <section class="panel sentences-card" id="sentencesPanel">
+          <div class="section-title">章节文本</div>
+          <div class="empty-state">在章节查询中选择章节</div>
+        </section>
+      </aside>
+    </main>
+    <div class="parallel-reader hidden" id="parallelReader" aria-hidden="true">
+      <div class="parallel-reader-panel" role="dialog" aria-modal="true" aria-labelledby="parallelReaderTitle">
+        <div class="parallel-reader-head">
+          <div>
+            <h2 id="parallelReaderTitle">章节对读</h2>
+            <p id="parallelReaderMeta"></p>
+          </div>
+          <button class="parallel-close" id="parallelReaderClose" type="button" aria-label="关闭对读">×</button>
+        </div>
+        <div class="parallel-reader-body" id="parallelReaderBody"></div>
+      </div>
+    </div>
+    <script src="/app.js"></script>
+  </body>
+</html>

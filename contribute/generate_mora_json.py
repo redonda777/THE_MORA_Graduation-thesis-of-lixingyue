@@ -3,6 +3,9 @@
 """
 生成完整的 mora.json 文件
 包含12个版本，每个版本76个节点（1个序言 + 75章）
+启动口令：python generate_mora_json.py
+input:
+output:mora.json
 """
 
 import json

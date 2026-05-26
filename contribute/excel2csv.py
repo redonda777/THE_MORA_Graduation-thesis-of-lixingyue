@@ -1,9 +1,3 @@
-"""
-Excel转CSV脚本
-功能：将Excel文件转换为CSV格式
-支持单文件转换、批量转换、指定工作表等功能
-"""
-
 import pandas as pd
 import os
 import sys

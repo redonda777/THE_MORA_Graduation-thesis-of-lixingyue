@@ -3,6 +3,17 @@ from pathlib import Path
 from typing import Any, Dict, List, Tuple
 
 
+"""
+    使用动态规划计算基础编辑距离，并回溯出从 src 转换到 tgt 的字符级操作序列。
+
+    操作代价均为 1，允许 delete / insert / replace。
+    位置索引使用 0-based，下标相对“当前源串”的位置：
+      - replace: {"type": "replace", "original_char": src_char, "target_char": tgt_char, "position": i}
+      - insert: {"type": "insert", "char": tgt_char, "position": i}
+      - delete: {"type": "delete", "char": src_char, "position": i}
+"""
+
+
 ROOT_DIR = Path(__file__).resolve().parent.parent
 INPUT_JSON_PATH = ROOT_DIR / "connect_edit_distance" / "mora_v1.2_1228.json"
 OUTPUT_JSON_PATH = Path(__file__).resolve().parent / "sentence_edit_distance.json"

@@ -1,0 +1,21 @@
+# 合并结果
+
+adjus_distance目录下以adjus_distance\formal_all_sentence_adjusted_distance_aggressive_llm_开头的.json文件是分批处理的不同存档，
+你按照标题上的区间顺序写一个脚本把它们拼起来作为一个总的文件，命名为total_adjus_distance\formal_all_sentence_adjusted_distance_aggressive_llm.json
+脚本放在D:\The_Mora\test目录下，你操作脚本完成任务之后给我反馈
+
+你写一条脚本判断adjus_distance\total_formal_all_sentence_adjusted_distance_aggressive_llm.json里的数据条数和connect_edit_distance/llm_edit_distance_0410/formal_all_sentence_edit_distance_llm_v2_merged.json里的数据条数是否一致
+这两个文件里的数据结构有相似对应性，你先阅读一下这两个文件再设计脚本来计算条数
+我需要你先说明它们之间的相似对应性，由我确认之后再执行脚本
+脚本放进D:\The_Mora\test目录下
+
+你现在帮我分别找到adjus_distance\total_formal_all_sentence_adjusted_distance_aggressive_llm.json里的"edit_count"、"adjusted_edit_distance"、"normalized_distance"这几个值的
+中位数：
+平均值：
+最大值：
+最小值：
+标准差：
+下四分位数：
+上四分位数：
+然后输出在adjus_distance\out_data_tosee目录下
+你可以自己写脚本完成，脚本要放在D:\The_Mora\test目录下并注明作用和输入输出参数

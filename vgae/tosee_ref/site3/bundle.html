@@ -1,0 +1,261 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>节点聚焦放大 · 相邻联动高亮</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { background: #0a0a0f; overflow: hidden; font-family: 'Segoe UI', system-ui, sans-serif; }
+    .stats {
+      position: fixed; top: 16px; left: 16px; z-index: 10; color: #e5e7eb;
+      font-size: 12px; background: rgba(0,0,0,0.8); padding: 12px 16px;
+      border-radius: 8px; border: 1px solid rgba(255,255,255,0.1); line-height: 1.8;
+    }
+    .stats-title { margin-bottom: 8px; font-size: 14px; font-weight: 600; color: #22c55e; }
+    .stats-val { color: #3b82f6; }
+    .fps-warn { color: #ef4444 !important; }
+    .fps-ok { color: #22c55e !important; }
+    .hint { margin-top: 8px; font-size: 10px; color: #9ca3af; border-top: 1px solid rgba(255,255,255,0.1); padding-top: 8px; }
+    .focus-panel {
+      position: fixed; top: 16px; right: 16px; z-index: 10; color: #e5e7eb;
+      font-size: 12px; background: rgba(0,0,0,0.85); padding: 12px 16px;
+      border-radius: 8px; border: 1px solid #22c55e; min-width: 180px; max-height: 300px; overflow-y: auto;
+    }
+    .focus-title { color: #22c55e; font-weight: 600; margin-bottom: 8px; }
+    .focus-label { color: #9ca3af; }
+    .adj-list { color: #eab308; }
+    .adj-more { color: #6b7280; }
+  </style>
+</head>
+<body>
+  <div class="stats">
+    <div class="stats-title">节点聚焦放大 · 相邻联动高亮</div>
+    <div>节点: <span id="nodeCount" class="stats-val">0</span></div>
+    <div>边: <span id="edgeCount" class="stats-val">0</span></div>
+    <div>FPS: <span id="fps" class="fps-ok">0</span></div>
+    <div class="hint">点击节点聚焦 · 滚轮缩放 · 中键拖拽</div>
+  </div>
+  <div id="focusPanel" class="focus-panel" style="display:none">
+    <div class="focus-title">聚焦节点 #<span id="focusId"></span></div>
+    <div class="focus-label">相邻节点:</div>
+    <div id="adjList" class="adj-list"></div>
+  </div>
+  <canvas id="canvas"></canvas>
+  <script>
+    const NODE_COUNT = 12000;
+    const CONNECTION_PROB = 0.004;
+    const CANVAS_COLOR = '#0a0a0f';
+    const NODE_COLOR = '#3b82f6';
+    const NODE_HOVER = '#f97316';
+    const NODE_FOCUS = '#22c55e';
+    const NODE_ADJ = '#eab308';
+    const EDGE_COLOR = 'rgba(59,130,246,0.15)';
+    const EDGE_HL = 'rgba(234,179,8,0.5)';
+
+    const canvas = document.getElementById('canvas');
+    const ctx = canvas.getContext('2d');
+    const nodeCountEl = document.getElementById('nodeCount');
+    const edgeCountEl = document.getElementById('edgeCount');
+    const fpsEl = document.getElementById('fps');
+    const focusPanel = document.getElementById('focusPanel');
+    const focusIdEl = document.getElementById('focusId');
+    const adjListEl = document.getElementById('adjList');
+
+    let width, height;
+    let nodes = [];
+    let scale = 1, offsetX = 0, offsetY = 0;
+    let hoveredId = null;
+    let focusedId = null;
+    let isDragging = false, dragStartX = 0, dragStartY = 0;
+
+    function init() {
+      width = canvas.width = window.innerWidth;
+      height = canvas.height = window.innerHeight;
+      nodes = [];
+      let edgeCount = 0;
+
+      for (let i = 0; i < NODE_COUNT; i++) {
+        const angle = Math.random() * Math.PI * 2;
+        const radius = Math.random() * Math.min(width, height) * 0.45;
+        nodes.push({
+          id: i,
+          x: width / 2 + Math.cos(angle) * radius,
+          y: height / 2 + Math.sin(angle) * radius,
+          vx: (Math.random() - 0.5) * 0.5,
+          vy: (Math.random() - 0.5) * 0.5,
+          conns: []
+        });
+      }
+
+      for (let i = 0; i < nodes.length; i++) {
+        for (let j = i + 1; j < nodes.length; j++) {
+          if (Math.random() < CONNECTION_PROB) {
+            nodes[i].conns.push(j);
+            nodes[j].conns.push(i);
+          }
+        }
+      }
+
+      nodes.forEach(n => edgeCount += n.conns.length);
+      edgeCount = edgeCount / 2;
+      nodeCountEl.textContent = NODE_COUNT.toLocaleString();
+      edgeCountEl.textContent = Math.floor(edgeCount).toLocaleString();
+    }
+
+    function simulate() {
+      const pad = 50;
+      nodes.forEach(n => {
+        n.x += n.vx;
+        n.y += n.vy;
+        if (n.x < pad) n.vx += 0.1;
+        if (n.x > width - pad) n.vx -= 0.1;
+        if (n.y < pad) n.vy += 0.1;
+        if (n.y > height - pad) n.vy -= 0.1;
+        n.vx *= 0.99;
+        n.vy *= 0.99;
+        if (Math.abs(n.vx) < 0.01) n.vx = (Math.random() - 0.5) * 0.5;
+        if (Math.abs(n.vy) < 0.01) n.vy = (Math.random() - 0.5) * 0.5;
+      });
+    }
+
+    function draw() {
+      ctx.fillStyle = CANVAS_COLOR;
+      ctx.fillRect(0, 0, width, height);
+
+      ctx.save();
+      ctx.translate(offsetX, offsetY);
+      ctx.scale(scale, scale);
+
+      // Edges
+      nodes.forEach(n => {
+        n.conns.forEach(cid => {
+          if (cid > n.id) {
+            const t = nodes[cid];
+            let hl = false;
+            if (focusedId !== null) {
+              if (focusedId === n.id || focusedId === cid) hl = true;
+              else if (nodes[focusedId].conns.includes(n.id) || nodes[focusedId].conns.includes(cid)) hl = true;
+            } else if (hoveredId !== null) {
+              if (hoveredId === n.id || hoveredId === cid) hl = true;
+            }
+            ctx.beginPath();
+            ctx.strokeStyle = hl ? EDGE_HL : EDGE_COLOR;
+            ctx.lineWidth = hl ? 1.5 / scale : 0.5 / scale;
+            ctx.moveTo(n.x, n.y);
+            ctx.lineTo(t.x, t.y);
+            ctx.stroke();
+          }
+        });
+      });
+
+      // Nodes
+      nodes.forEach(n => {
+        const isHov = hoveredId !== null && hoveredId === n.id;
+        const isFoc = focusedId !== null && focusedId === n.id;
+        const isAdj = focusedId !== null && focusedId !== n.id && nodes[focusedId].conns.includes(n.id);
+        let r = 2, col = NODE_COLOR;
+        if (isFoc) { r = 8; col = NODE_FOCUS; }
+        else if (isAdj) { r = 5; col = NODE_ADJ; }
+        else if (isHov) { r = 5; col = NODE_HOVER; }
+        ctx.beginPath();
+        ctx.arc(n.x, n.y, r, 0, Math.PI * 2);
+        ctx.fillStyle = col;
+        ctx.fill();
+      });
+
+      ctx.restore();
+    }
+
+    function findNode(cx, cy) {
+      const x = (cx - offsetX) / scale;
+      const y = (cy - offsetY) / scale;
+      for (const n of nodes) {
+        const dx = n.x - x, dy = n.y - y;
+        if (dx * dx + dy * dy < 100) return n.id;
+      }
+      return null;
+    }
+
+    function updateFocusPanel() {
+      if (focusedId !== null) {
+        focusPanel.style.display = 'block';
+        focusIdEl.textContent = focusedId;
+        const conns = nodes[focusedId].conns.slice(0, 20);
+        adjListEl.innerHTML = conns.map(id => `<div>#${id}</div>`).join('');
+        if (nodes[focusedId].conns.length > 20) {
+          adjListEl.innerHTML += `<div class="adj-more">...还有${nodes[focusedId].conns.length - 20}个</div>`;
+        }
+      } else {
+        focusPanel.style.display = 'none';
+      }
+    }
+
+    let lastTime = performance.now();
+    let frameCount = 0;
+
+    function loop(time) {
+      frameCount++;
+      if (time - lastTime >= 1000) {
+        const fps = frameCount;
+        frameCount = 0;
+        lastTime = time;
+        fpsEl.textContent = fps;
+        fpsEl.className = fps < 30 ? 'fps-warn' : 'fps-ok';
+      }
+
+      simulate();
+      draw();
+      requestAnimationFrame(loop);
+    }
+
+    canvas.addEventListener('mousemove', e => {
+      hoveredId = findNode(e.clientX, e.clientY);
+    });
+
+    canvas.addEventListener('click', e => {
+      const id = findNode(e.clientX, e.clientY);
+      if (id !== null) {
+        focusedId = focusedId === id ? null : id;
+        updateFocusPanel();
+      }
+    });
+
+    canvas.addEventListener('wheel', e => {
+      e.preventDefault();
+      const delta = e.deltaY > 0 ? 0.9 : 1.1;
+      scale = Math.max(0.1, Math.min(5, scale * delta));
+    }, { passive: false });
+
+    canvas.addEventListener('mousedown', e => {
+      if (e.button === 1) {
+        isDragging = true;
+        dragStartX = e.clientX;
+        dragStartY = e.clientY;
+        e.preventDefault();
+      }
+    });
+
+    window.addEventListener('mousemove', e => {
+      if (isDragging) {
+        offsetX += e.clientX - dragStartX;
+        offsetY += e.clientY - dragStartY;
+        dragStartX = e.clientX;
+        dragStartY = e.clientY;
+      }
+    });
+
+    window.addEventListener('mouseup', e => {
+      if (e.button === 1) isDragging = false;
+    });
+
+    window.addEventListener('resize', () => {
+      width = canvas.width = window.innerWidth;
+      height = canvas.height = window.innerHeight;
+    });
+
+    init();
+    requestAnimationFrame(loop);
+  </script>
+</body>
+</html>
